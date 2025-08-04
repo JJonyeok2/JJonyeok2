@@ -19,7 +19,7 @@
   ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
   ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 
-- 📫 이메일: `jeonjonghyeok@email.com`
+- 📫 이메일: `jacob122@naver.com / jacob122405@gmail.com`
 
 ---
 
