@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Django, Mediapipe, and EC2**
 
-- 📫 How to reach me: **jeonjonghyeok@email.com**
+- 📫 How to reach me: **jacob122@naver.com or jacob122405@gmail.com**
 
 - 📝 [My Resume](https://example.com/resume.pdf)
 
