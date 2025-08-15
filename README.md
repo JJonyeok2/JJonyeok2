@@ -42,9 +42,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJonyeok2&layout=compact&theme=radical)
 
 ---
+
 ### 📈 Contribution Graph
 ![GitHub Streak](https://streak-stats.demolab.com?user=JJonyeok2&theme=radical&hide_border=true)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JJonyeok2&theme=radical&hide_border=true)
+
+---
 
 ### 🎯 Career Direction
 - **AI 기반 헬스케어·피트니스 분야**에 특화된 모바일/웹 서비스 개발자 지향
