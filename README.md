@@ -42,3 +42,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJonyeok2&layout=compact&theme=radical)
 
 ---
+### 🎯 Career Direction
+- **AI 기반 헬스케어·피트니스 분야**에 특화된 모바일/웹 서비스 개발자 지향
+- 실시간 영상 분석, 맞춤형 AI 피드백, 데이터 기반 사용자 경험 개선에 관심
+- 장기적으로는 **AI + IoT + 모바일**을 융합한 스마트 헬스 솔루션 개발
+- 사용자 중심 설계(UX/UI)와 확장성 있는 아키텍처 설계를 동시에 고려
