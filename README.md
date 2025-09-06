@@ -5,13 +5,13 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 현재 **나사렛대학교 인공지능학부 4학년**에 재학 중이며  
+- 🎓 현재 **나사렛대학교 인공지능학부 4학년 2학기** 재학 중이며  
   AI 기반의 체형 분석 및 실시간 운동 보조 앱 **Atheleo** 프로젝트를 진행하고 있습니다.
 
 - 🔭 주요 프로젝트: **Atheleo**  
   자세 분석, 체형 분류, AI 피드백 기능을 제공하는 모바일 앱
 
-- 🌱 현재 학습 중: `TensorFlow`, `React Native`, `Pose Estimation`, `AWS`, `Django`
+- 🌱 현재 학습 중: `TensorFlow`, `React Native`, `Pose Estimation`, `AWS`, `Django` 
 
 - 🛠️ 사용 기술:
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
