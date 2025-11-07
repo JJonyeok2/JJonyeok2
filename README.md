@@ -12,7 +12,7 @@
   카메라를 활용한 체형 분석과 AI 운동 피드백을 제공하는 **React Native + Django 기반 모바일 앱**
 
 - 💻 **개발 환경:**  
-  Mac / Windows / Android 환경 모두에서 개발 경험 보유  
+  Mac / Windows / Android / ios 환경 모두에서 개발 경험 보유  
   (모바일 빌드, AWS 배포, 백엔드 연동 등 전 과정 직접 수행)
 
 - 🌱 **현재 학습 중:**  
