@@ -12,22 +12,18 @@
 - 🔭 **대표 프로젝트:** [Atheleo](https://github.com/JJonyeok2/Atheleo)  
   카메라 기반 체형 분석과 AI 운동 피드백을 제공하는 **React Native + Django** 모바일 앱
 
-- 💻 **개발 환경 경험:**  
-  macOS / Windows / Android / iOS 환경에서 개발 및 배포 경험 (모바일 빌드, AWS 배포, 백엔드 연동 등 전 과정 직접 수행)
+- 💻 **개발 환경 경험:** macOS / Windows / Android / iOS 환경에서 개발 및 배포 경험 (모바일 빌드, AWS 배포, 백엔드 연동 등 전 과정 직접 수행)
 
-- 🌱 **현재 학습 중:**  
-  `TensorFlow`, `React Native`, `Pose Estimation`, `AWS`, `Django`
+- 🌱 **현재 학습 중:** `TensorFlow`, `React Native`, `Pose Estimation`, `AWS`, `Django`
 
-- 🛠️ **기술 스택:**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- 🛠️ **기술 스택:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
   ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
   ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white)
   ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
   ![AWS Route 53](https://img.shields.io/badge/AWS_Route_53-8C4FFF?style=flat&logo=amazon-aws&logoColor=white)
 
-- 📫 **Contact:**  
-  `jacob122@naver.com` / `jacob122405@gmail.com`
+- 📫 **Contact:** `jacob122@naver.com` / `jacob122405@gmail.com`
 
 ---
 
@@ -47,26 +43,14 @@
 
 ### 📊 GitHub Stats
 
-![JJonyeok2's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJonyeok2&show_icons=true&theme=radical)
+![JJonyeok2's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJonyeok2&show_icons=true&theme=radical&locale=kr)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJonyeok2&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJonyeok2&layout=compact&theme=radical&locale=kr)
 
 ---
 
 ### 📈 Contribution Graph
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JJonyeok2&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=JJonyeok2&theme=radical&hide_border=true&locale=ko)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JJonyeok2&theme=radical&hide_border=true)
-
----
-
-### 🎯 Career Direction
-
-- **AI 기반 헬스케어·피트니스** 분야의 모바일/웹 서비스 개발자 지향  
-- **실시간 영상 분석**, **맞춤형 AI 피드백**, **데이터 기반 UX 개선**에 관심  
-- **AWS EC2 / S3 / Route 53**을 이용한 배포 및 클라우드 인프라 구축 경험  
-- **macOS + Android** 개발 환경 경험 (iOS 및 Android 앱 테스트/배포 가능)  
-- **향후 목표:** AWS SAA 자격증 취득 및 클라우드 엔지니어링 역량 강화  
-- 장기적으로 **AI + Mobile** 융합형 스마트 헬스 솔루션 개발 목표  
-- 사용자 중심 설계(UX/UI)와 확장성 있는 아키텍처 설계를 동시에 고려
+![Ashutosh's 3D Contrib Graph](https://github-profile-trophy.vercel.app/?username=JJonyeok2&theme=radical&no-frame=true&margin-w=4)
