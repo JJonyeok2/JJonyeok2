@@ -40,17 +40,16 @@
 ![demo](https://github.com/JJonyeok2/Atheleo/blob/main/demo.gif)
 
 ---
-
 ### 📊 GitHub Stats
 
-![JJonyeok2's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJonyeok2&show_icons=true&theme=radical&locale=ko)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JJonyeok2&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJonyeok2&layout=compact&theme=radical&locale=ko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJonyeok2&layout=compact&theme=radical&langs_count=6)
 
 ---
 
 ### 📈 Contribution Graph
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JJonyeok2&theme=radical&hide_border=true&locale=ko)
+![GitHub Streak](https://streak-stats.demolab.com?user=JJonyeok2&theme=radical&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JJonyeok2&theme=radical&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=JJonyeok2&theme=radical)
