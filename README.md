@@ -41,8 +41,16 @@
 
 ---
 
+### 📊 GitHub Stats
+
+![JJonyeok2's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJonyeok2&show_icons=true&theme=radical&locale=ko)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJonyeok2&layout=compact&theme=radical&locale=ko)
+
+---
+
 ### 📈 Contribution Graph
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=JJonyeok2&theme=radical&hide_border=true&locale=ko)
 
-![JJonyeok2's 3D Contrib](https://github-profile-trophy.vercel.app/?username=JJonyeok2&theme=radical&no-frame=true&margin-w=4&row=1&column=7)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JJonyeok2&theme=radical&hide_border=true)
