@@ -52,4 +52,4 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=JJonyeok2&theme=radical&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=JJonyeok2&theme=radical)
+![Isometric Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JJonyeok2&theme=radical)
