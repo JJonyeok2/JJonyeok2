@@ -1,12 +1,24 @@
+<div align="center">
+  <img src="maru.jpeg" width="200" height="200" style="border-radius: 50%; object-fit: cover; object-position: center;" />
+  <br/>
+  <h3>🐾 Coding with Maru & Jacob</h3>
+  <br/>
+</div>
+
 <h1 align="center">안녕하세요 👋 전종혁입니다</h1>
 
 <h3 align="center">AI & 모바일 앱 개발 </h3>
 
 ---
 
-### 👨‍🎓 About Me
+### 👨‍🎓 About Me (feat. Maru)
 
-- 🎓 **나사렛대학교 인공지능학부 4학년 2학기** 재학 중  
+- 🐶 **Pair Programmer:** 제 반려견이자 CTO인 **마루**와 함께 코딩합니다. (마루는 주로 잡니다.)
+
+- 🏢 **SK Networks Family AI Camp** 수료 중 (2026.01 ~ )
+  Python 기반 AI/SW 풀스택 개발자 양성 과정에 참여하고 있습니다.
+
+- 🎓 **나사렛대학교 인공지능학부 4학년 2학기** 졸업 예정 
   AI 기반 체형 분석 및 실시간 운동 보조 앱 **Atheleo** 프로젝트를 진행하고 있습니다.
 
 - 🔭 **대표 프로젝트:** [Atheleo](https://github.com/JJonyeok2/Atheleo)  
