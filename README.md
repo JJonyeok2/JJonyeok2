@@ -26,15 +26,20 @@
 
 - 💻 **개발 환경 경험:** macOS / Windows / Android / iOS 환경에서 개발 및 배포 경험 (모바일 빌드, AWS 배포, 백엔드 연동 등 전 과정 직접 수행)
 
-- 🌱 **현재 학습 중:** `TensorFlow`, `React Native`, `Pose Estimation`, `AWS`, `Django`
+- 🌱 **현재 학습 중:** `TensorFlow`, `React Native`, `Pose Estimation`, `AWS`, `Django`, `MySQL`
 
 - 🛠️ **기술 스택**
   <br/>
-  **Languages & Frameworks**
+  **Languages & AI**
   <br/>
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
   ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
+  **Database**
+  <br/>
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
   
   **Infrastructure & Cloud**
   <br/>
@@ -46,7 +51,6 @@
   <br/>
   ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
   ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
-  
 - 📫 **Contact:** `jacob122@naver.com` / `jacob122405@gmail.com`
 
 ---
