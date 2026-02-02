@@ -1,7 +1,7 @@
 <div align="center">
   <img src="maru.jpeg" width="200" height="200" style="border-radius: 50%; object-fit: cover; object-position: center;" />
   <br/>
-  <h3>🐾 Coding with Maru & Jacob</h3>
+  <h3>🐾 Coding with Maru & JJonyeok</h3>
   <br/>
 </div>
 
