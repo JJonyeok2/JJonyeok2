@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="maru.jpeg" width="200" height="200" style="border-radius: 50%; object-fit: cover; object-position: center;" />
+  <img src="maru.jpeg" width="300" height="300" style="border-radius: 50%; object-fit: cover; object-position: center;" />
   <br/>
   <h3>🐾 Coding with Maru & JJonyeok</h3>
   <br/>
@@ -15,7 +15,7 @@
 
 - 🐶 **Pair Programmer:** 제 반려견이자 CTO인 **마루**와 함께 코딩합니다. (마루는 주로 잡니다.)
 
-- 🏢 **SK Networks Family AI Camp** 수료 중 (2026.01 ~ )
+- 🦋 **SK Networks Family AI Camp** 수료 중 (2026.01 ~ )
   Python 기반 AI/SW 풀스택 개발자 양성 과정에 참여하고 있습니다.
 
 - 🎓 **나사렛대학교 인공지능학부 4학년 2학기** 졸업 예정 
@@ -28,13 +28,25 @@
 
 - 🌱 **현재 학습 중:** `TensorFlow`, `React Native`, `Pose Estimation`, `AWS`, `Django`
 
-- 🛠️ **기술 스택:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- 🛠️ **기술 스택**
+  <br/>
+  **Languages & Frameworks**
+  <br/>
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
   ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+  
+  **Infrastructure & Cloud**
+  <br/>
   ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white)
   ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
   ![AWS Route 53](https://img.shields.io/badge/AWS_Route_53-8C4FFF?style=flat&logo=amazon-aws&logoColor=white)
 
+  **Tools & Productivity**
+  <br/>
+  ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+  ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
+  
 - 📫 **Contact:** `jacob122@naver.com` / `jacob122405@gmail.com`
 
 ---
