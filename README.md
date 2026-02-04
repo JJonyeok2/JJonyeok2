@@ -5,7 +5,7 @@
   <br/>
 </div>
 
-<h1 align="center"Hi! 👋 It's JJonyeok </h1>
+<h1 align="center"Hi! 👋 I am JJonyeok" </h1>
 
 <h3 align="center">AI & Develop Mobile App </h3>
 
