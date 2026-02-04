@@ -5,9 +5,9 @@
   <br/>
 </div>
 
-<h1 align="center">안녕하세요 👋 전종혁입니다</h1>
+<h1 align="center"Hi! 👋 It's JJonyeok </h1>
 
-<h3 align="center">AI & 모바일 앱 개발 </h3>
+<h3 align="center">AI & Develop Mobile App </h3>
 
 ---
 
