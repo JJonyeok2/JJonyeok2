@@ -72,11 +72,7 @@
 - OpenPose 기반 체형 분류 및 데이터 처리
 - Django + FastAPI를 통한 AI 추론 서버 아키텍처 구성
 - React Native + Expo로 크로스 플랫폼 모바일 UI/UX 개발
-- AWS EC2, S3, Route 53 기반의 서버 및 데이터 인프라 구축 및 배포
-  
-  *(Demo)*
-  <br/>
-  ![demo](https://github.com/JJonyeok2/Atheleo/blob/main/demo.gif)
+- AWS EC2, S3, Route 53 기반의 서버 및 데이터 인프라 구축 및 배포 
 
 #### 💳 CCRM (Credit Card Customer Retention Management)
 > 📊 **머신러닝 기반 신용카드 고객 이탈 방지 예측 및 대시보드** (2026.03)
