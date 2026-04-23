@@ -13,15 +13,21 @@
 
 ### 👨‍🎓 About Me
 
-- 🦋 **SK Networks Family AI Camp** 수료 중 (2026.01 ~ 2026.07)
-  실무 중심의 AI 역량 강화 과정에 참여하며 실무 중심의 엔드투엔드(End-to-End) 프로젝트를 수행하고 있습니다.
+- 🦋 **SK Networks Family AI Camp** 수료 중 (2026.01 ~ 2026.07)<br/>
+  실무 중심의 AI 역량 강화 과정에 참여하며,<br/>
+  엔드투엔드(End-to-End) 프로젝트를 수행하고 있습니다.
 
-- 🎓 **나사렛대학교 인공지능학부 4학년 2학기** 졸업
-  AI 기반 체형 분석 및 실시간 운동 보조 앱 **Atheleo** 프로젝트를 진행해 논문, 결과물 제출 후 졸업했습니다.
+- 🎓 **나사렛대학교 인공지능학부 4학년 2학기** 졸업<br/>
+  AI 기반 체형 분석 및 실시간 운동 보조 앱 **Atheleo** 프로젝트를 진행해<br/>
+  논문 및 결과물 제출 후 졸업했습니다.
 
-- 💻 **개발 및 배포 경험:** macOS / Windows / Android / iOS 환경 크로스 플랫폼 개발 및 모바일 빌드, AWS 인프라 구축, 머신러닝 파이프라인 연동 등 전 과정을 직접 수행할 수 있습니다.
+- 💻 **개발 및 배포 경험:**<br/>
+  macOS / Windows / Android / iOS 환경 크로스 플랫폼 개발 및 모바일 빌드,<br/>
+  AWS 인프라 구축, 머신러닝 파이프라인 연동 등 전 과정을 직접 수행할 수 있습니다.
 
-- 🌱 **현재 집중하고 있는 분야:** 데이터 분석(EDA) 및 AI 모델링부터 서비스 연동까지 아우르는 **AI 풀스택(Full-Stack) 역량** 강화 (`Data Analysis`, `AI`, `Django`, `React Native`)
+- 🌱 **현재 집중하고 있는 분야:**<br/>
+  데이터 분석(EDA) 및 AI 모델링부터 서비스 연동까지 아우르는<br/>
+  **AI 풀스택(Full-Stack) 역량** 강화 (`Data Analysis`, `AI`, `Django`, `React Native`)
 
 ---
 
@@ -68,7 +74,7 @@
 
 #### 🏋️ Atheleo (Main Project)
 > 📱 **카메라 기반 체형 분석 + AI 실시간 운동 피드백 모바일 앱** (2025.04 ~ 2025.12)
-- **MoveNet**, **MediaPipe**을 활용한 실시간 키포인트 추출 및 자세 분석
+- **MoveNet**을 활용한 실시간 키포인트 추출 및 자세 분석
 - OpenPose 기반 체형 분류 및 데이터 처리
 - Django + FastAPI를 통한 AI 추론 서버 아키텍처 구성
 - React Native + Expo로 크로스 플랫폼 모바일 UI/UX 개발
