@@ -68,7 +68,7 @@
 
 #### 🏋️ Atheleo (Main Project)
 > 📱 **카메라 기반 체형 분석 + AI 실시간 운동 피드백 모바일 앱** (2025.04 ~ 2025.12)
-- **MoveNet**을 활용한 실시간 키포인트 추출 및 자세 분석
+- **MoveNet**, **MediaPipe**을 활용한 실시간 키포인트 추출 및 자세 분석
 - OpenPose 기반 체형 분류 및 데이터 처리
 - Django + FastAPI를 통한 AI 추론 서버 아키텍처 구성
 - React Native + Expo로 크로스 플랫폼 모바일 UI/UX 개발
