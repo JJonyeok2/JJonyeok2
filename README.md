@@ -21,7 +21,7 @@
 
 - 💻 **개발 및 배포 경험:** macOS / Windows / Android / iOS 환경 크로스 플랫폼 개발 및 모바일 빌드, AWS 인프라 구축, 머신러닝 파이프라인 연동 등 전 과정을 직접 수행할 수 있습니다.
 
-- 🌱 **현재 집중하고 있는 분야:** `Pose Estimation (MoveNet)`, `Machine Learning Pipeline (MLflow)`, `FastAPI`, `React Native`
+- 🌱 **현재 집중하고 있는 분야:** `DJango`, `React Native`
 
 ---
 
