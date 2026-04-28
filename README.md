@@ -27,7 +27,7 @@
 
 - 🌱 **현재 집중하고 있는 분야:**<br/>
   데이터 분석(EDA) 및 AI 모델링부터 서비스 연동까지 아우르는<br/>
-  **AI 풀스택(Full-Stack) 역량** 강화 (`Data Analysis`, `AI`, `Django`, `React Native`)
+  **AI 풀스택(Full-Stack) 역량** 강화 (`Data Analysis`, `AI`, `Django`, `FastAPI`, `React Native`)
 
 ---
 
@@ -38,27 +38,34 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
 **Backend & Web**
 <br/>
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Chainlit](https://img.shields.io/badge/Chainlit-F97316?style=flat&logoColor=white)
 
 **Frontend & Mobile**
 <br/>
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Database**
 <br/>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 **Infrastructure & Cloud**
 <br/>
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
 ![AWS Route 53](https://img.shields.io/badge/AWS_Route_53-8C4FFF?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 **Tools & Productivity**
 <br/>
@@ -72,24 +79,36 @@
 
 ### 🚀 Projects
 
-#### 🏋️ Atheleo (Main Project)
+#### 💼 JobPocket - 6인 개발
+> 🤖 **RAG 기반 하이브리드 AI 자기소개서 피드백 및 작성 지원 서비스** (2026.04)
+- **Role:** `프론트 개발 및 아키텍처 설계`
+- **FastAPI(백엔드) + Streamlit(프론트엔드)** 구조의 모놀리식 ➔ 풀스택 아키텍처 설계 및 구현
+- **LangChain**을 활용하여 로컬 모델(EXAONE 3.5)과 클라우드 API(OpenAI, Groq)를 유연하게 스위칭하는 **하이브리드 AI 엔진**
+- '10년 차 대기업 인사담당자' 페르소나 및 티키타카 역질문 로직 기반의 정교한 프롬프트 엔지니어링 적용
+- SQLite 및 MySQL을 활용한 유저 스펙(팩트) 데이터 관리 및 REST API 기반 통신 최적화
+
+#### 🏋️ Atheleo (Main Project) - 2인 개발
 > 📱 **카메라 기반 체형 분석 + AI 실시간 운동 피드백 모바일 앱** (2025.04 ~ 2025.12)
+- **Role:** `팀장: AI 모델링 및 크로스 플랫폼 앱 개발 (Full-Stack AI Engineer) `
 - **MoveNet**을 활용한 실시간 키포인트 추출 및 자세 분석
-- OpenPose 기반 체형 분류 및 데이터 처리
+- OpenPose, MoveNet, MediaPipe 기반 체형 분류 및 데이터 처리
 - Django + FastAPI를 통한 AI 추론 서버 아키텍처 구성
 - React Native + Expo로 크로스 플랫폼 모바일 UI/UX 개발
 - AWS EC2, S3, Route 53 기반의 서버 및 데이터 인프라 구축 및 배포 
 
-#### 💳 CCRM (Credit Card Customer Retention Management)
+#### 💳 CCRM (Credit Card Customer Retention Management) - 6인 개발
 > 📊 **머신러닝 기반 신용카드 고객 이탈 방지 예측 및 대시보드** (2026.03)
+- **Role:** `Streamli을 통한 프론트엔드, 데이터 분석 및 머신러닝 모델링 (Data Scientist)`
 - 고객 이탈 예측을 위한 머신러닝 모델링 (Recall 지표 최적화 집중)
 - **MLflow**를 활용한 실험 관리 및 모델 파라미터 트래킹
 - **Streamlit**을 이용한 데이터 시각화 및 직관적인 예측 대시보드 구현
 
-#### 🚙 Bluehands Finder
+#### 🚙 Bluehands Finder - 6인 개발
 > 🗺️ **현대 블루핸즈 서비스 센터 위치 찾기 웹 서비스** (2026.02)
-- 서비스 센터 위치 정보 제공을 위한 웹 기반 서비스 개발 및 데이터베이스 스키마 설계
-
+- **Role:** `실질적 팀장(Tech Lead) 및 풀스택 개발`
+- 수평적인 팀 구조 내에서 실질적 리더 역할을 수행하며, 기획부터 배포까지 **개발 전 과정을 총괄 및 직접 구현**
+- 서비스 센터 위치 정보 제공을 위한 Streamlit 기반 웹 서비스 개발 및 데이터베이스 스키마 설계
+  
 ---
 ### 📊 GitHub Stats
 
