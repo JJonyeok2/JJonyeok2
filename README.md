@@ -98,7 +98,7 @@
 
 #### 💳 CCRM (Credit Card Customer Retention Management) - 6인 개발
 > 📊 **머신러닝 기반 신용카드 고객 이탈 방지 예측 및 대시보드** (2026.03)
-- **Role:** `Streamli을 통한 프론트엔드, 데이터 분석 및 머신러닝 모델링 (Data Scientist)`
+- **Role:** `StreamliT을 통한 프론트엔드, 데이터 분석 및 머신러닝 모델링 (Data Scientist)`
 - 고객 이탈 예측을 위한 머신러닝 모델링 (Recall 지표 최적화 집중)
 - **MLflow**를 활용한 실험 관리 및 모델 파라미터 트래킹
 - **Streamlit**을 이용한 데이터 시각화 및 직관적인 예측 대시보드 구현
