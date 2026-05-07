@@ -2,6 +2,7 @@
   <img src="maru.jpeg" width="300" height="300" style="border-radius: 50%; object-fit: cover; object-position: center;" />
   <br/>
   <h3>🐾  JJonyeok (feat. CTO Maru)</h3>
+  <p><i>"혼자 고민하기보다 'CTO 마루'에게 설명하며 문제를 해결하는 러버덕 디버깅을 즐깁니다."</i></p>
   <br/>
 </div>
 
@@ -13,21 +14,20 @@
 
 ### 👨‍🎓 About Me
 
-- 🦋 **SK Networks Family AI Camp** 수료 중 (2026.01 ~ 2026.07)<br/>
-  실무 중심의 AI 역량 강화 과정에 참여하며,<br/>
-  엔드투엔드(End-to-End) 프로젝트를 수행하고 있습니다.
+- 🦋 **SK Networks Family AI Camp** 수료 중 (2026.01 ~ 2026.07)
+  실무 중심의 AI 역량 강화 과정에 참여하며, 엔드투엔드(End-to-End) 프로젝트를 수행하고 있습니다.
 
-- 🎓 **나사렛대학교 인공지능학부 4학년 2학기** 졸업<br/>
-  AI 기반 체형 분석 및 실시간 운동 보조 앱 **Atheleo** 프로젝트를 진행해<br/>
-  논문 및 결과물 제출 후 졸업했습니다.
+- 🎓 **나사렛대학교 인공지능학부** 졸업
+  AI 기반 체형 분석 및 실시간 운동 보조 앱 **Atheleo** 프로젝트를 통해 학위 논문을 제출하고 졸업했습니다.
 
-- 💻 **개발 및 배포 경험:**<br/>
-  macOS / Windows / Android / iOS 환경 크로스 플랫폼 개발 및 모바일 빌드,<br/>
-  AWS 인프라 구축, 머신러닝 파이프라인 연동 등 전 과정을 직접 수행할 수 있습니다.
+- 💻 **개발 및 배포 경험**
+  macOS / Windows / Android / iOS 환경 크로스 플랫폼 개발부터 AWS 인프라 구축, 머신러닝 파이프라인 연동까지 서비스 전 과정을 직접 수행합니다.
 
-- 🌱 **현재 집중하고 있는 분야:**<br/>
-  데이터 분석(EDA) 및 AI 모델링부터 서비스 연동까지 아우르는<br/>
-  **AI 풀스택(Full-Stack) 역량** 강화 (`Data Analysis`, `AI`, `Django`, `FastAPI`, `React Native`)
+- 🌱 **현재 집중하고 있는 분야**
+  데이터 분석(EDA) 및 AI 모델링부터 서비스 연동까지 아우르는 **AI 풀스택(Full-Stack) 역량** 강화 (`Data Analysis`, `AI`, `React`, `TypeScript`, `Python`)
+
+- 🖌️ **나의 스타일: "Build & Refine"**
+  아이디어를 머릿속에만 두지 않고 **직접 구현하며 구체화**합니다. 만드는 과정에서 마주치는 한계에 즐겁게 부딪히고, 배포 후에도 "어떻게 하면 더 나은 사용성을 제공할까?"를 고민하며 **집요하게 완성도를 높이는 것**이 저의 개발 방식입니다.
 
 ---
 
@@ -67,12 +67,6 @@
 ![AWS Route 53](https://img.shields.io/badge/AWS_Route_53-8C4FFF?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-**Tools & Productivity**
-<br/>
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
-![JIRA](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
-
 - 📫 **Contact:** `jacob122@naver.com` / `jacob122405@gmail.com`
 
 ---
@@ -82,38 +76,34 @@
 #### 💼 JobPocket - 6인 개발
 > 🤖 **RAG 기반 하이브리드 AI 자기소개서 피드백 및 작성 지원 서비스** (2026.04)
 - **Role:** `프론트 개발 및 아키텍처 설계`
-- **FastAPI(백엔드) + Streamlit(프론트엔드)** 구조의 모놀리식 ➔ 풀스택 아키텍처 설계 및 구현
-- **LangChain**을 활용하여 로컬 모델(EXAONE 3.5)과 클라우드 API(OpenAI, Groq)를 유연하게 스위칭하는 **하이브리드 AI 엔진**
-- '10년 차 대기업 인사담당자' 페르소나 및 티키타카 역질문 로직 기반의 정교한 프롬프트 엔지니어링 적용
-- SQLite 및 MySQL을 활용한 유저 스펙(팩트) 데이터 관리 및 REST API 기반 통신 최적화
+- **Architecture:** FastAPI(백엔드) + Streamlit(프론트엔드) 기반의 풀스택 아키텍처 구현
+- **AI Engine:** LangChain을 활용해 로컬 모델(EXAONE)과 클라우드 API(OpenAI)를 스위칭하는 하이브리드 시스템 설계
+- **Insight:** 로컬 모델의 보안성과 클라우드 모델의 고성능 사이의 균형을 맞추며 최적의 피드백 속도를 구현했습니다.
 
 #### 🏋️ Atheleo (Main Project) - 2인 개발
 > 📱 **카메라 기반 체형 분석 + AI 실시간 운동 피드백 모바일 앱** (2025.04 ~ 2025.12)
-- **Role:** `팀장: AI 모델링 및 크로스 플랫폼 앱 개발 (Full-Stack AI Engineer) `
-- **MoveNet**을 활용한 실시간 키포인트 추출 및 자세 분석
-- OpenPose, MoveNet, MediaPipe 기반 체형 분류 및 데이터 처리
-- Django + FastAPI를 통한 AI 추론 서버 아키텍처 구성
-- React Native + Expo로 크로스 플랫폼 모바일 UI/UX 개발
-- AWS EC2, S3, Route 53 기반의 서버 및 데이터 인프라 구축 및 배포 
+- **Role:** `팀장: AI 모델링 및 크로스 플랫폼 앱 개발 (Full-Stack AI Engineer)`
+- **Tech:** MoveNet 실시간 키포인트 추출 및 Django + FastAPI 추론 서버 구축
+- **Deployment:** React Native + Expo를 이용한 모바일 UI 구축 및 AWS 인프라 배포 전담
+- **Insight:** 실시간 분석 시 발생하는 지연 시간을 최소화하기 위해 비동기 처리와 모델 경량화에 집중하며 서비스 사용성을 개선했습니다.
 
 #### 💳 CCRM (Credit Card Customer Retention Management) - 6인 개발
 > 📊 **머신러닝 기반 신용카드 고객 이탈 방지 예측 및 대시보드** (2026.03)
-- **Role:** `StreamliT을 통한 프론트엔드, 데이터 분석 및 머신러닝 모델링 (Data Scientist)`
-- 고객 이탈 예측을 위한 머신러닝 모델링 (Recall 지표 최적화 집중)
-- **MLflow**를 활용한 실험 관리 및 모델 파라미터 트래킹
-- **Streamlit**을 이용한 데이터 시각화 및 직관적인 예측 대시보드 구현
+- **Role:** `Data Scientist: 데이터 분석 및 머신러닝 모델링`
+- **Optimization:** Recall 지표 최적화를 통한 잠재적 이탈 고객 포착 성능 극대화
+- **Tools:** MLflow를 통한 실험 관리 및 Streamlit 기반 시각화 대시보드 구현
 
 #### 🚙 Bluehands Finder - 6인 개발
 > 🗺️ **현대 블루핸즈 서비스 센터 위치 찾기 웹 서비스** (2026.02)
-- **Role:** `실질적 팀장(Tech Lead) 및 풀스택 개발`
-- 수평적인 팀 구조 내에서 실질적 리더 역할을 수행하며, 기획부터 배포까지 **개발 전 과정을 총괄 및 직접 구현**
-- 서비스 센터 위치 정보 제공을 위한 Streamlit 기반 웹 서비스 개발 및 데이터베이스 스키마 설계
-  
+- **Role:** `Tech Lead 및 풀스택 개발`
+- **Leadership:** 기획부터 배포까지 개발 전 과정을 총괄하며 팀의 기술적 의사결정 주도
+- **Development:** Streamlit 기반 웹 서비스 개발 및 효율적인 DB 스키마 설계
+
 ---
+
 ### 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JJonyeok2&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJonyeok2&layout=compact&theme=radical&langs_count=6)
 
 ---
@@ -121,5 +111,4 @@
 ### 📈 Contribution Graph
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=JJonyeok2&theme=radical&hide_border=true)
-
 ![Isometric Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JJonyeok2&theme=radical)
