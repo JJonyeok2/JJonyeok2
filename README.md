@@ -1,9 +1,7 @@
 <div align="center">
   <img src="maru.jpeg" width="300" height="300" style="border-radius: 50%; object-fit: cover; object-position: center;" />
   <br/>
-  <h3>🐾  JJonyeok (feat. CTO Maru)</h3>
-  <p><i>"혼자 고민하기보다 'CTO 마루'에게 설명하며 문제를 해결하는 러버덕 디버깅을 즐깁니다."</i></p>
-  <br/>
+  <h3>🐾  JJonyeok (feat. Maru)</h3>
 </div>
 
 <h1 align="center">Hi! 👋 I am JJonyeok</h1>
