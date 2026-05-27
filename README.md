@@ -70,6 +70,9 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=flat&logo=python&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat&logo=openai&logoColor=white)
 
 - 📫 **Contact:** `jacob122@naver.com` / `jacob122405@gmail.com`
 
