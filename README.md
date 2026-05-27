@@ -77,12 +77,21 @@
 
 ### 🚀 Projects
 
-#### 👕 Olfit (Ongoing) - 6인 개발
-> 🤖 **사용자 체형 데이터 기반 맞춤형 의류 사이즈 추천 및 패션 AI 솔루션** (2026.05 ~ 현재)
-- **Role:** `프론트엔드 및 향수 데이터 크롤링`
-- **Architecture:** 신체 치수 데이터 분석 파이프라인 구축 및 크로스 플랫폼 앱과의 API 연동 설계
-- **AI Engine:** 대규모 신체 데이터를 활용한 정밀 사이즈 추천 모델 알고리즘 개발
-- **Insight:** 복잡한 의류 표준 실측 사이즈와 개인 체형 간의 오차를 최소화하는 데이터 정규화에 집중하여, 추천 정확도를 높이고 반품률을 낮추는 비즈니스 가치를 극대화하고 있습니다.
+#### 🛫 Lovv- 6인 개발
+> 🤖 **사용자 선택에 따른 테마 기반 여행 추천 RAG 챗봇 웹 서비스** (2026.06~2026.07)
+- **Role:** `프론트엔드 및 AWS 배포 작업`
+- - **Tech:** React, TypeScript, Tailwind CSS, AWS(SAM, EC2, Bedrock, S3)
+- **Architecture:** Ongoing
+- **AI Engine:** Ongoing
+- **Insight:** Ongoing
+
+#### 👕 Olfit - 6인 개발
+> 🤖 **사용자 OOTD, 취향 기반 맞춤형 AI 향수 추천 웹 서비스** (2026.05)
+- **Role:** `프론트엔드 및 향수 데이터 크롤링, API 엔드포인트, 배포 작업`
+- - **Tech:** React, TypeScript, Tailwind CSS, AWS EC2, Nginx
+- **Architecture:** 사용자 OOTD 사진 분석 파이프라인 구축 및 크로스 플랫폼을 위한 반응형 웹 설계, 백엔드와의 API 연동 설계
+- **AI Engine:** 사용자 OOTD의 키워드 추출 후 향수 키워드와 매칭 후 향수 Top5 추천 (NVIDIA NIM)
+- **Insight:** 사용자의 OOTD와 향수 취향에 맞는 브랜드 향수를 추천받는 시스템으로 사용자의 향수를 추천받는 만족 효과를 얻습니다.
 
 #### 💼 JobPocket - 6인 개발
 > 🤖 **RAG 기반 하이브리드 AI 자기소개서 피드백 및 작성 지원 서비스** (2026.04)
