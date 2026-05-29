@@ -93,7 +93,7 @@
 - **AI Engine:** Ongoing
 - **Insight:** Ongoing
 
-#### 👕 Olfit - 6인 개발
+#### 🧴 Olfit - 6인 개발
 > 🤖 **사용자 OOTD, 취향 기반 맞춤형 AI 향수 추천 웹 서비스** (2026.05)
 - **Role:** `프론트엔드 및 향수 데이터 크롤링, API 엔드포인트, 배포 작업`
 - - **Tech:** React, TypeScript, Tailwind CSS, AWS EC2, Nginx
