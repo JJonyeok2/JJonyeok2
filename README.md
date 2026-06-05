@@ -86,7 +86,7 @@
 
 ### 🚀 Projects
 
-#### 🛫 Lovv- 6인 개발
+#### 🛫 Lovv- 5인 개발
 > 🤖 **사용자 선택에 따른 테마 기반 여행 추천 RAG 챗봇 웹 서비스** (2026.06~2026.07)
 - **Role:** `프론트엔드 및 AWS 배포 작업`
 - - **Tech:** React, TypeScript, Tailwind CSS, AWS(SAM, EC2, Bedrock, S3)
