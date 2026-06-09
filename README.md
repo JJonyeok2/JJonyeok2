@@ -119,7 +119,7 @@
 
 > 사용자 선택에 따른 테마 기반 여행 추천 RAG 챗봇 웹 서비스
 
-- **Role:** 프론트엔드 개발 및 AWS 배포 작업
+- **Role:** FE 개발, 기획 및 AWS 배포 작업
 - **Tech:** React, TypeScript, Tailwind CSS, AWS SAM, EC2, Bedrock, S3
 - **Frontend:** 사용자 온보딩, 테마 선택, 추천 결과 확인 흐름을 중심으로 React 기반 웹 UI를 설계 및 구현 중입니다.
 - **Cloud:** AWS 기반 서비스 배포 구조를 구성하며 프론트엔드와 AI 추천 파이프라인 연동을 진행 중입니다.
@@ -130,7 +130,7 @@
 
 > 사용자 OOTD와 취향을 기반으로 맞춤형 AI 향수를 추천하는 웹 서비스
 
-- **Role:** 프론트엔드 개발, 향수 데이터 크롤링, API 엔드포인트 구성, 배포 작업
+- **Role:** FE 개발, 기획, 향수 데이터 크롤링, API 엔드포인트 구성, 배포 작업
 - **Tech:** React, TypeScript, Tailwind CSS, AWS EC2, Nginx, NVIDIA NIM
 - **Frontend:** 사용자 입력, OOTD 분석 결과, 향수 추천 리스트를 연결하는 반응형 웹 UI를 구현했습니다.
 - **Architecture:** 사용자 OOTD 이미지 분석 파이프라인과 프론트엔드 화면 흐름을 연결하고, 백엔드 API 연동 구조를 설계했습니다.
@@ -141,7 +141,7 @@
 
 > RAG 기반 하이브리드 AI 자기소개서 피드백 및 작성 지원 서비스
 
-- **Role:** 프론트엔드 개발 및 아키텍처 설계
+- **Role:** FE 개발 및 아키텍처 설계
 - **Tech:** FastAPI, Streamlit, LangChain, EXAONE, OpenAI
 - **Frontend:** 자기소개서 입력, 피드백 결과 확인, 모델 응답 흐름을 Streamlit UI로 구성했습니다.
 - **Architecture:** FastAPI 백엔드와 Streamlit 프론트엔드를 연결한 풀스택 구조를 구현했습니다.
@@ -162,7 +162,7 @@
 
 > 머신러닝 기반 신용카드 고객 이탈 방지 예측 및 대시보드
 
-- **Role:** Data Scientist, 데이터 분석 및 머신러닝 모델링
+- **Role:** FE, Data Scientist, 데이터 분석 및 머신러닝 모델링, 기획
 - **Tech:** Python, MLflow, Streamlit
 - **Optimization:** Recall 지표를 중심으로 잠재적 이탈 고객 포착 성능을 개선했습니다.
 - **Dashboard:** Streamlit 기반 대시보드를 구현해 예측 결과와 주요 지표를 시각화했습니다.
@@ -172,7 +172,7 @@
 
 > 현대 블루핸즈 서비스 센터 위치 찾기 웹 서비스
 
-- **Role:** Tech Lead 및 풀스택 개발
+- **Role:** Tech Lead 및 풀스택 개발, 기획
 - **Tech:** Python, Streamlit, SQLite
 - **Leadership:** 기획부터 배포까지 개발 흐름을 총괄하고 팀의 기술 의사결정을 주도했습니다.
 - **Development:** Streamlit 기반 웹 서비스와 효율적인 DB 스키마를 설계했습니다.
