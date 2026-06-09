@@ -183,8 +183,13 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JJonyeok2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJonyeok2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JJonyeok2&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JJonyeok2&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JJonyeok2&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JJonyeok2&theme=tokyonight&utcOffset=9" />
 </div>
 
 <div align="center">
