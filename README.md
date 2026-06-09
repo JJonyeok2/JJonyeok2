@@ -1,143 +1,203 @@
 <div align="center">
-  <img src="maru.jpeg" width="300" height="300" style="border-radius: 50%; object-fit: cover; object-position: center;" />
-  <br/>
-  <h3>🐾  JJonyeok (feat. Maru)</h3>
+  <img src="maru.jpeg" width="220" height="220" style="border-radius: 50%; object-fit: cover; object-position: center;" />
+
+  <h1>Hi, I'm JJonyeok</h1>
+  <h3>Frontend Engineer building AI services & mobile experiences</h3>
+
+  <p>
+    React, TypeScript, React Native 기반의 사용자 경험을 구현하고,<br/>
+    AI 도구를 활용해 기획, 구현, 테스트, 문서화 흐름을 빠르게 검증합니다.
+  </p>
+
+  <p>
+    <a href="mailto:jacob122@naver.com">
+      <img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
+    </a>
+    <a href="mailto:jacob122405@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=JJonyeok2&style=for-the-badge&color=0E75B6" />
+  </p>
 </div>
 
-<h1 align="center">Hi! 👋 I am JJonyeok</h1>
+---
 
-<h3 align="center">Full-Stack AI Engineer & Mobile App Developer</h3>
+## About Me
+
+- **SK Networks Family AI Camp** 수료 중 `(2026.01 ~ 2026.07)`
+  - 실무 중심의 AI 역량 강화 과정에서 데이터 분석, AI 모델링, 웹 서비스 구현, 클라우드 배포를 연결한 엔드투엔드 프로젝트를 수행하고 있습니다.
+
+- **나사렛대학교 인공지능학부 졸업**
+  - AI 기반 체형 분석 및 실시간 운동 보조 앱 **Atheleo** 프로젝트를 통해 학위 논문을 제출했습니다.
+
+- **Build & Refine**
+  - 아이디어를 빠르게 구현해 검증하고, AI 도구와 테스트 자동화를 활용해 사용자 흐름과 배포 환경에서 발견한 문제를 반복적으로 개선합니다.
+
+- **Current Focus**
+  - `Frontend Engineering`, `React`, `TypeScript`, `React Native`, `AI-assisted Development`, `Testing & QA`
 
 ---
 
-### 👨‍🎓 About Me
+## AI-assisted Workflow
 
-- 🦋 **SK Networks Family AI Camp** 수료 중 (2026.01 ~ 2026.07)<br/>
-  실무 중심의 AI 역량 강화 과정에 참여하며, 엔드투엔드(End-to-End) 프로젝트를 수행하고 있습니다.
-
-- 🎓 **나사렛대학교 인공지능학부** 졸업<br/>
-  AI 기반 체형 분석 및 실시간 운동 보조 앱 **Atheleo** 프로젝트를 통해 학위 논문을 제출하고 졸업했습니다.
-
-- 💻 **개발 및 배포 경험**<br/>
-  macOS / Windows / Android / iOS 환경 크로스 플랫폼 개발부터 AWS 인프라 구축, 머신러닝 파이프라인 연동까지 서비스 전 과정을 직접 수행합니다.
-
-- 🌱 **현재 집중하고 있는 분야**<br/>
-  데이터 분석(EDA) 및 AI 모델링부터 서비스 연동까지 아우르는 **AI 풀스택(Full-Stack) 역량** 강화 <br/> (`Data Analysis`, `AI`, `React`, `TypeScript`, `Python`)
-
-- 🖌️ **나의 스타일 "Build & Refine"**<br/>
-  아이디어를 머릿속에만 두지 않고 **직접 구현하며 구체화**합니다. 만드는 과정에서 마주치는 한계에 즐겁게 부딪히고, <br/>배포 후에도 "어떻게 하면 더 나은 사용성을 제공할까?"를 고민하며 **집요하게 완성도를 높이는 것**이 저의 개발 방식입니다.
+- **Planning:** Codex, Notion, Obsidian을 활용해 요구사항, 사용자 흐름, 기능 우선순위를 구조화합니다.
+- **Implementation:** AI 도구를 활용해 UI 구현, API 연동, 리팩토링 방향을 빠르게 검토하고 적용합니다.
+- **Testing:** Vitest와 Playwright 기반 검증 흐름으로 기능 변경 시 발생할 수 있는 회귀를 확인합니다.
+- **Documentation:** 프로젝트 구조, 배포 과정, 의사결정, 회고 내용을 팀원이 이어받기 쉬운 형태로 정리합니다.
 
 ---
 
-### 🛠️ Tech Stack
+## Tech Stack
 
-**AI & Data**
-<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+### Frontend & Mobile
 
-**Backend & Web**
-<br/>
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Chainlit](https://img.shields.io/badge/Chainlit-F97316?style=flat&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frontend & Mobile**
-<br/>
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+### Testing & QA
 
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
-**Database**
-<br/>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+### AI & Data
 
-**Infrastructure & Cloud**
-<br/>
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
-![AWS Route 53](https://img.shields.io/badge/AWS_Route_53-8C4FFF?style=flat&logo=amazon-aws&logoColor=white)
-![AWS SAM](https://img.shields.io/badge/AWS_SAM-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA%20NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-**Tools & Productivity**
-<br/>
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
-![JIRA](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=flat&logo=gemini&logoColor=white)
-![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat&logo=openai&logoColor=white)
+### Backend & Web Service
 
-- 📫 **Contact:** `jacob122@naver.com` / `jacob122405@gmail.com`
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Chainlit](https://img.shields.io/badge/Chainlit-F97316?style=for-the-badge&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
----
+### Database
 
-### 🚀 Projects
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
-#### 🛫 Lovv- 5인 개발
-> 🤖 **사용자 선택에 따른 테마 기반 여행 추천 RAG 챗봇 웹 서비스** (2026.06~2026.07)
-- **Role:** `프론트엔드 및 AWS 배포 작업`
-- - **Tech:** React, TypeScript, Tailwind CSS, AWS(SAM, EC2, Bedrock, S3)
-- **Architecture:** Ongoing
-- **AI Engine:** Ongoing
-- **Insight:** Ongoing
+### Infrastructure & Cloud
 
-#### 🧴 Olfit - 6인 개발
-> 🤖 **사용자 OOTD, 취향 기반 맞춤형 AI 향수 추천 웹 서비스** (2026.05)
-- **Role:** `프론트엔드 및 향수 데이터 크롤링, API 엔드포인트, 배포 작업`
-- - **Tech:** React, TypeScript, Tailwind CSS, AWS EC2, Nginx
-- **Architecture:** 사용자 OOTD 사진 분석 파이프라인 구축 및 크로스 플랫폼을 위한 반응형 웹 설계, 백엔드와의 API 연동 설계
-- **AI Engine:** 사용자 OOTD의 키워드 추출 후 향수 키워드와 매칭 후 향수 Top5 추천 (NVIDIA NIM)
-- **Insight:** 사용자의 OOTD와 향수 취향에 맞는 브랜드 향수를 추천받는 시스템으로 사용자의 향수를 추천받는 만족 효과를 얻습니다.
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Amazon Route 53](https://img.shields.io/badge/Route%2053-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white)
+![AWS SAM](https://img.shields.io/badge/AWS%20SAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-#### 💼 JobPocket - 6인 개발
-> 🤖 **RAG 기반 하이브리드 AI 자기소개서 피드백 및 작성 지원 서비스** (2026.04)
-- **Role:** `프론트 개발 및 아키텍처 설계`
-- **Architecture:** FastAPI(백엔드) + Streamlit(프론트엔드) 기반의 풀스택 아키텍처 구현
-- **AI Engine:** LangChain을 활용해 로컬 모델(EXAONE)과 클라우드 API(OpenAI)를 스위칭하는 하이브리드 시스템 설계
-- **Insight:** 로컬 모델의 보안성과 클라우드 모델의 고성능 사이의 균형을 맞추며 최적의 피드백 속도를 구현했습니다.
+### Tools
 
-#### 🏋️ Atheleo (Main Project) - 2인 개발
-> 📱 **카메라 기반 체형 분석 + AI 실시간 운동 피드백 모바일 앱** (2025.04 ~ 2025.12)
-- **Role:** `팀장: AI 모델링 및 크로스 플랫폼 앱 개발 (Full-Stack AI Engineer)`
-- **Tech:** MoveNet 실시간 키포인트 추출 및 Django + FastAPI 추론 서버 구축
-- **Deployment:** React Native + Expo를 이용한 모바일 UI 구축 및 AWS 인프라 배포 전담
-- **Insight:** 실시간 분석 시 발생하는 지연 시간을 최소화하기 위해 비동기 처리와 모델 경량화에 집중하며 서비스 사용성을 개선했습니다.
-
-#### 💳 CCRM (Credit Card Customer Retention Management) - 6인 개발
-> 📊 **머신러닝 기반 신용카드 고객 이탈 방지 예측 및 대시보드** (2026.03)
-- **Role:** `Data Scientist: 데이터 분석 및 머신러닝 모델링`
-- **Optimization:** Recall 지표 최적화를 통한 잠재적 이탈 고객 포착 성능 극대화
-- **Tools:** MLflow를 통한 실험 관리 및 Streamlit 기반 시각화 대시보드 구현
-
-#### 🚙 Bluehands Finder - 6인 개발
-> 🗺️ **현대 블루핸즈 서비스 센터 위치 찾기 웹 서비스** (2026.02)
-- **Role:** `Tech Lead 및 풀스택 개발`
-- **Leadership:** 기획부터 배포까지 개발 전 과정을 총괄하며 팀의 기술적 의사결정 주도
-- **Development:** Streamlit 기반 웹 서비스 개발 및 효율적인 DB 스키마 설계
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## Projects
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JJonyeok2&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJonyeok2&layout=compact&theme=radical&langs_count=6)
+### Lovv - 5인 개발 `(2026.06 ~ 2026.07)`
+
+> 사용자 선택에 따른 테마 기반 여행 추천 RAG 챗봇 웹 서비스
+
+- **Role:** 프론트엔드 개발 및 AWS 배포 작업
+- **Tech:** React, TypeScript, Tailwind CSS, AWS SAM, EC2, Bedrock, S3
+- **Frontend:** 사용자 온보딩, 테마 선택, 추천 결과 확인 흐름을 중심으로 React 기반 웹 UI를 설계 및 구현 중입니다.
+- **Cloud:** AWS 기반 서비스 배포 구조를 구성하며 프론트엔드와 AI 추천 파이프라인 연동을 진행 중입니다.
+- **AI-assisted Workflow:** Codex와 문서화 도구를 활용해 화면 흐름, API 연동, 테스트 범위를 빠르게 정리하고 있습니다.
+- **QA Focus:** Vitest 기반 단위/컴포넌트 테스트와 Playwright 기반 핵심 사용자 플로우 검증을 적용할 수 있는 구조를 정리하고 있습니다.
+
+### Olfit - 6인 개발 `(2026.05)`
+
+> 사용자 OOTD와 취향을 기반으로 맞춤형 AI 향수를 추천하는 웹 서비스
+
+- **Role:** 프론트엔드 개발, 향수 데이터 크롤링, API 엔드포인트 구성, 배포 작업
+- **Tech:** React, TypeScript, Tailwind CSS, AWS EC2, Nginx, NVIDIA NIM
+- **Frontend:** 사용자 입력, OOTD 분석 결과, 향수 추천 리스트를 연결하는 반응형 웹 UI를 구현했습니다.
+- **Architecture:** 사용자 OOTD 이미지 분석 파이프라인과 프론트엔드 화면 흐름을 연결하고, 백엔드 API 연동 구조를 설계했습니다.
+- **AI Engine:** OOTD 이미지에서 추출한 키워드와 향수 데이터를 매칭해 사용자에게 향수 Top 5를 추천했습니다.
+- **Insight:** AI 추천 결과를 사용자가 이해하고 선택할 수 있도록 이미지 분석, 키워드 매칭, 추천 UI의 연결성을 개선했습니다.
+
+### JobPocket - 6인 개발 `(2026.04)`
+
+> RAG 기반 하이브리드 AI 자기소개서 피드백 및 작성 지원 서비스
+
+- **Role:** 프론트엔드 개발 및 아키텍처 설계
+- **Tech:** FastAPI, Streamlit, LangChain, EXAONE, OpenAI
+- **Frontend:** 자기소개서 입력, 피드백 결과 확인, 모델 응답 흐름을 Streamlit UI로 구성했습니다.
+- **Architecture:** FastAPI 백엔드와 Streamlit 프론트엔드를 연결한 풀스택 구조를 구현했습니다.
+- **AI Engine:** LangChain을 활용해 로컬 모델(EXAONE)과 클라우드 API(OpenAI)를 전환하는 하이브리드 피드백 시스템을 설계했습니다.
+- **Insight:** 로컬 모델의 보안성과 클라우드 모델의 성능 사이에서 상황에 맞는 모델 선택 구조를 고민했습니다.
+
+### Atheleo - 2인 개발 `(2025.04 ~ 2025.12)`
+
+> 카메라 기반 체형 분석 및 AI 실시간 운동 피드백 모바일 앱
+
+- **Role:** 팀장, AI 모델링 및 크로스 플랫폼 앱 개발
+- **Tech:** React Native, Expo, MoveNet, Django, FastAPI, AWS
+- **Mobile:** React Native와 Expo를 활용해 Android/iOS 환경에서 동작하는 모바일 UI를 구축했습니다.
+- **AI Engine:** MoveNet 기반 실시간 키포인트 추출과 Django/FastAPI 추론 서버를 연결했습니다.
+- **Insight:** 실시간 분석에서 발생하는 지연 시간을 줄이기 위해 비동기 처리와 모델 경량화에 집중했습니다.
+
+### CCRM - 6인 개발 `(2026.03)`
+
+> 머신러닝 기반 신용카드 고객 이탈 방지 예측 및 대시보드
+
+- **Role:** Data Scientist, 데이터 분석 및 머신러닝 모델링
+- **Tech:** Python, MLflow, Streamlit
+- **Optimization:** Recall 지표를 중심으로 잠재적 이탈 고객 포착 성능을 개선했습니다.
+- **Dashboard:** Streamlit 기반 대시보드를 구현해 예측 결과와 주요 지표를 시각화했습니다.
+- **Experiment:** MLflow를 활용해 모델 실험 결과를 관리하고 성능 비교 흐름을 정리했습니다.
+
+### Bluehands Finder - 6인 개발 `(2026.02)`
+
+> 현대 블루핸즈 서비스 센터 위치 찾기 웹 서비스
+
+- **Role:** Tech Lead 및 풀스택 개발
+- **Tech:** Python, Streamlit, SQLite
+- **Leadership:** 기획부터 배포까지 개발 흐름을 총괄하고 팀의 기술 의사결정을 주도했습니다.
+- **Development:** Streamlit 기반 웹 서비스와 효율적인 DB 스키마를 설계했습니다.
+- **Insight:** 위치 기반 탐색 흐름에서 사용자가 가까운 서비스 센터를 빠르게 찾을 수 있도록 정보 구조를 개선했습니다.
 
 ---
 
-### 📈 Contribution Graph
+## GitHub Analytics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JJonyeok2&theme=radical&hide_border=true)
-![Isometric Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JJonyeok2&theme=radical)
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JJonyeok2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJonyeok2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JJonyeok2&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JJonyeok2&theme=tokyonight" />
+</div>
+
+---
+
+## Contact
+
+- **Email:** `jacob122@naver.com`
+- **Gmail:** `jacob122405@gmail.com`
