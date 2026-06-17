@@ -3,16 +3,16 @@
   <img src="https://raw.githubusercontent.com/JJonyeok2/JJonyeok2/main/developer.svg" width="100%" alt="Jonghyeok's IDE Banner" onerror="this.src='https://capsule-render.vercel.app/render?type=soft&color=auto&height=180&section=header&text=Jonghyeok%20(전종혁)&fontSize=40'"/>
 </p>
 
-<h1 align="center">Hey there! I'm Jonghyeok (전종혁) 👋</h1>
+<h1 align="center">I'm Jonghyeok 👋</h1>
 
 <p align="center">
   <!-- Dynamic Typing Animation Effect -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=06b6d4&center=true&vCenter=true&width=550&lines=Frontend+%26+Mobile+Engineer;React+Native+%26+React+(Vite);AI+Integration+%26+Native+Modules;Building+Premium+Experiences" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=06b6d4&center=true&vCenter=true&width=550&lines=Frontend+%26+Mobile+Full-stack Engineer;React+Native+%26+React+(Vite);AI+Tooling+%26+Native+Modules;Building+Premium+Experiences" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <a href="#-about-me">About Me</a> •
-  <a href="#-ai-utilization">AI Focus</a> •
+  <a href="#-ai-utilization">AI Tooling</a> •
   <a href="#-tech-stack">Tech Stack</a> •
   <a href="#-featured-projects">Featured Projects</a> •
   <a href="#-organizations--teams">Organizations</a> •
@@ -31,14 +31,17 @@
 
 ---
 
-### 🧠 AI Utilization (AI 활용 및 엔지니어링 접근 방식)
+### 🧠 AI Utilization (AI 도구 활용 방식)
 
-저는 단순히 외부 AI API를 호출하는 단계를 넘어, **소프트웨어 엔지니어링 관점에서 AI를 통제하고 통합하는 아키텍처**를 설계합니다.
+저는 일상적인 개발 생산성 향상과 검색, 지식 관리 및 디자인-코드 연동을 최적화하기 위해 다양한 **AI 어시스턴트와 MCP(Model Context Protocol) 기술을 적극적으로 도입**하여 활용합니다.
 
-*   **Agentic AI & Orchestration**: 단일 LLM의 한계를 넘기 위해 여러 역할 에이전트(Spec, Implementation, Review 등)를 정의하고, 이들이 협업하고 작업을 검증할 수 있는 표준 명세(`AGENTS.md`) 및 워크플로우 제어 하네스를 직접 개발하여 실행합니다.
-*   **VLM & Multi-modal Integration**: Nvidia NIM(Gemma VLM) 및 MediaPipe 등을 프런트엔드 비디오/이미지 스트림과 실시간 결합하여 사용자의 visual 데이터를 가치 있는 비즈니스 스코어로 변환합니다.
-*   **Vector Search & RAG**: MySQL 9 Vector Store 검색 기능을 활용하여 효율적인 RAG(검색 증강 생성) 컨텍스트 검색을 구현합니다.
-*   **AI Observability (LLMOps)**: LangSmith 및 HuggingFace 연동을 통해 에이전트의 호출 비용, 추적성(Tracing), 레이턴시를 지속적으로 모니터링하고 평가합니다.
+*   **AI Code & Design Integration**:
+    *   **Figma MCP**와 같은 디자인 결합형 AI 도구를 도입하여, 피그마 디자인 명세를 AI가 직접 해석하게 함으로써 UI 컴포넌트 설계와 리액트/리액트 네이티브 코드 변환 작업을 신속하게 수행합니다.
+    *   **Superpowers** 및 다양한 AI 코드 어시스턴트를 연동하여 단순한 코드 완성을 넘어 전체 프로젝트의 문맥을 고려한 고난도 디버깅 및 스마트 리팩토링을 수행합니다.
+*   **Model Context Protocol (MCP) Orchestration**:
+    *   다양한 전용 MCP 서버를 연결하여 AI 어시스턴트가 로컬 파일 시스템, Docker 환경, GitHub API 등의 개발 환경 맥락을 직접 참조하게 함으로써 에러 추적 및 자동화 작업을 지능적으로 보조받습니다.
+*   **AI-Driven Knowledge Management**:
+    *   개인 개발 지식 아카이빙 시스템을 구축하고 이를 지능형 검색 엔진과 결합하여 이전에 학습하고 기록했던 개발 지식 및 기술 트렌드를 빠르게 요약·활용합니다.
 
 ---
 
@@ -101,7 +104,7 @@
     *   에이전트가 코덱스(Codex) 및 툴 환경에서 규칙서(`AGENTS.md`)를 준수하며 협업하도록 트리거를 연동하는 하네스 설계.
 *   **Stack**: `Python`, `GitHub API`, `Agentic Workflow`, `Codex Skill`
 
-#### 3. [JobPocket (잡포켓)](https://github.com/Joraemon-s-Secret-Gadgets/job-pocket) - RAG 기반 AI 자기소개서 초안 생성 및 첨삭 서비스
+#### 3. [JobPocket](https://github.com/Joraemon-s-Secret-Gadgets/job-pocket) - RAG 기반 AI 자기소개서 초안 생성 및 첨삭 서비스
 > 취업 준비생이 경험 스펙과 포지션 채용 정보를 입력하면 채용 데이터를 기반으로 직무 적합성과 설득력을 평가하여 맞춤형 자소서 초안을 자동 생성/수정해주는 웹 서비스입니다.
 *   **Key Work**:
     *   **FastAPI**를 연계한 백엔드 API 설계 및 Pydantic 기반 데이터 검증 파이프라인 수립.
@@ -110,7 +113,7 @@
     *   `LangSmith`를 이용한 LLM 호출 파이프라인 모니터링 및 성능 평가 인프라 마련.
 *   **Stack**: `FastAPI`, `Streamlit`, `MySQL (Vector)`, `RunPod Serverless`, `HuggingFace`, `LangChain`, `LangSmith`
 
-#### 4. [Olfit (올핏)](https://github.com/Joraemon-s-Secret-Gadgets/olfit) - OOTD 스타일 분석 기반 AI 향수 추천 플랫폼
+#### 4. [Olfit](https://github.com/Joraemon-s-Secret-Gadgets/olfit) - OOTD 스타일 분석 기반 AI 향수 추천 플랫폼
 > 사용자가 업로드한 OOTD(오늘의 착장) 이미지를 분석하여 스타일 스코어를 산출하고, 800여 개 향수 데이터 중 개인화된 아우라에 맞는 제품을 매칭해주는 큐레이션 서비스입니다.
 *   **Key Work**: 
     *   Vite + React + TypeScript 환경에서 **Zustand를 활용한 전역 상태 관리 및 추천 API 흐름 제어**.
@@ -118,15 +121,15 @@
     *   **Nvidia NIM (Gemma VLM)** 이미지 분석 파이프라인 연동 기획 및 시각 정보 벡터 매칭 프론트 로직 구축.
 *   **Stack**: `React`, `TypeScript`, `Vite`, `Zustand`, `Shadcn UI`, `Django REST`, `MySQL`, `Docker`
 
-#### 5. [Lovv (러브)](https://github.com/Joraemon-s-Secret-Gadgets/Lovv_web) - 한·일 소도시 감성 여행 AI 큐레이션 서비스
+#### 5. [Lovv](https://github.com/Joraemon-s-Secret-Gadgets/Lovv_web) - 한·일 소도시 감성 여행 AI 큐레이션 서비스
 > 여행 Pace, 페스티벌 포함 여부 등 사용자의 선호를 AI Chat 인터페이스로 좁혀가며 최적의 로컬 소도시 여행 일정을 개인화하여 제작해주는 큐레이션 웹 애플리케이션입니다.
 *   **Key Work**:
     *   여행 무드 설정을 위한 인터랙티브 온보딩(Onboarding) 카드 플로우 개발.
-    *   Trip-duration 칩 및 대화형 일정 좁히기 Mock 챗 인터페이스 UI 컴포넌트 설계.
+    *   Trip-duration 칩 및 대화형 일정 좁히기 Mock 챗 인터페이스 UI 컴포넌체 설계.
     *   **AWS SAM(Lambda, API Gateway)** 및 **Cognito/DynamoDB** 기반 서버리스 API 통합 연동.
 *   **Stack**: `React`, `TypeScript`, `Vite`, `Tailwind CSS`, `AWS SAM (Python Lambda)`, `DynamoDB`, `RDS MySQL`
 
-#### 6. [Bluehand-Founder (블루핸즈 파인더)](https://github.com/JJonyeok2/Bluehand-Founder) - 위치 기반 현대자동차 정비소 매칭 서비스
+#### 6. [Bluehand-Founder](https://github.com/JJonyeok2/Bluehand-Founder) - 위치 기반 현대자동차 정비소 매칭 서비스
 > 사용자의 현재 GPS 기반 위치 정보나 검색 지역을 바탕으로 전국 현대자동차 블루핸즈 정비소 리스트를 조회하고, 특수 정비(전기차, 수소차, 판금, N-Line 등) 필터를 적용해 매칭해주는 지리정보 웹 서비스입니다.
 *   **Key Work**:
     *   `streamlit-js-eval` API를 활용하여 사용자의 **실시간 GPS 위치 좌표 데이터 동적 획득**.
@@ -155,7 +158,7 @@
 ### ✉️ Get in Touch
 
 *   💬 **GitHub Issues/PRs**: [@JJonyeok2](https://github.com/JJonyeok2)
-*   📧 **Email**: [JJonyeok2 Profile Contact](mailto:your_email@gmail.com) <!-- 이메일 주소를 입력해 주세요 -->
+*   📧 **Email**: [JJonyeok2 Profile Contact](mailto:jacob122405@gmail.com) <!-- 이메일 주소를 입력해 주세요 -->
 *   📝 **Dev Blog**: [Obsidian Zettelkasten](https://github.com/JJonyeok2/JJonyeoks_zet_note)
 
 <p align="right">
