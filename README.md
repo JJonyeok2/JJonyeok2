@@ -78,7 +78,14 @@
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Tools &amp; Collab</strong></td>
+    <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -158,7 +165,7 @@
 ### ✉️ Get in Touch
 
 *   💬 **GitHub Issues/PRs**: [@JJonyeok2](https://github.com/JJonyeok2)
-*   📧 **Email**: [JJonyeok2 Profile Contact](mailto:jacob122405@gmail.com) <!-- 이메일 주소를 입력해 주세요 -->
+*   📧 **Email**: [JJonyeok2 Profile Contact](mailto:jacob122405@gmail.com)
 *   📝 **Dev Blog**: [Obsidian Zettelkasten](https://github.com/JJonyeok2/JJonyeoks_zet_note)
 
 <p align="right">
