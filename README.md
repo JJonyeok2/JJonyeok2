@@ -26,8 +26,8 @@
 
 * 📱 **Frontend & Mobile Specialist**: **React Native**를 활용한 고성능 크로스 플랫폼 모바일 앱 개발과 **React(Vite)** 기반의 인터랙티브 웹 UI 구현에 강점이 있습니다.
 * 🛠️ **Native Module Bridge**: 필요에 따라 iOS 네이티브 프레임워크와 직접 통신하는 네이티브 프레임 프로세서 플러그인(Objective-C++)을 개발하여 모바일 앱 성능을 극대화합니다.
-* 🤖 **AI-Powered UI/UX Builder**: 단순한 화면 구현을 넘어, **Agentic Workflows, RAG, VLM** 등 인공지능 기술을 프런트엔드 서비스 환경(Web/App)에 유연하게 통합하여 가치 있는 사용자 경험을 설계합니다.
-* 🎨 **Premium Aesthetics & Detail**: Zustand, Tailwind CSS, Shadcn UI 등을 활용하여 감도 높은 UI를 설계하고, 사용자의 비주얼 피드백과 Micro-interaction을 중시합니다.
+* 🤖 **AI-Powered UI/UX Builder**: 단순한 화면 구현을 넘어, **Agentic Workflows, RAG, VLM** 등 인공지능 기술을 프론트엔드 서비스 환경(Web/App)에 유연하게 통합하여 가치 있는 사용자 경험을 설계합니다.
+* 🎨 **Premium Aesthetics & Detail**: Zustand, React Query, Tailwind CSS, Shadcn UI 등을 활용하여 감도 높은 UI를 설계하고, 사용자의 비주얼 피드백과 Micro-interaction을 중시합니다.
 
 ---
 
