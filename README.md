@@ -148,8 +148,8 @@
 
 ### 🏢 Organizations & Teams
 
-*   **[Joraemon-s-Secret-Gadgets (조라에몽의 만능 도구들)](https://github.com/Joraemon-s-Secret-Gadgets)**: 혁신적인 감성 서비스(Olfit, JobPocket, Lovv 등)를 개발하기 위해 모인 프로젝트 연구/개발 오거나이제이션.
-*   **SK Networks Family (SKN26)**: 인프라, 백엔드 및 프론트엔드 연동 플레이그라운드(`docker_playground`, `2nd_project`)를 학습하고 검증하는 기술 스터디 모임.
+*   **[Joraemon-s-Secret-Gadgets (조라에몽의 만능 도구들)](https://github.com/Joraemon-s-Secret-Gadgets)**: 혁신적인 감성 서비스(Olfit, JobPocket, Lovv 등)를 개발하기 위해 모인 프로젝트 개발 Org.
+*   **SK Networks Family (SKN26)**: AI와 Python 기초를 학습하고 검증하는 AI 캠프.
 
 ---
 
