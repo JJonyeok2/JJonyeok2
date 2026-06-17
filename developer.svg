@@ -54,7 +54,7 @@
 
     <!-- 코드 라인 3 -->
     <text x="50" y="85" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="15" fill="#f8fafc">
-      <tspan fill="#fb7185">specialization</tspan><tspan fill="#e2e8f0">:</tspan> <tspan fill="#38bdf8">[</tspan><tspan fill="#34d399">'React Native'</tspan><tspan fill="#e2e8f0">,</tspan> <tspan fill="#34d399">'Next.js'</tspan><tspan fill="#e2e8f0">,</tspan> <tspan fill="#34d399">'Agentic AI'</tspan><tspan fill="#38bdf8">]</tspan>
+      <tspan fill="#fb7185">specialization</tspan><tspan fill="#e2e8f0">:</tspan> <tspan fill="#38bdf8">[</tspan><tspan fill="#34d399">'React Native'</tspan><tspan fill="#e2e8f0">,</tspan> <tspan fill="#34d399">'React (Vite)'</tspan><tspan fill="#e2e8f0">,</tspan> <tspan fill="#34d399">'Agentic AI'</tspan><tspan fill="#38bdf8">]</tspan>
     </text>
 
     <!-- Code Line 4 -->
