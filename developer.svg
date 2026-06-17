@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="100%">
+  <defs>
+    <!-- 배경 그라데이션 -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="50%" stop-color="#1e1b4b" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+    
+    <!-- 모눈 격자 패턴 -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#334155" stroke-width="0.5" opacity="0.3" />
+    </pattern>
+  </defs>
+
+  <!-- 배경 처리 -->
+  <rect width="800" height="200" rx="12" fill="url(#bgGrad)" />
+  <rect width="800" height="200" rx="12" fill="url(#grid)" />
+
+  <!-- VS Code 스타일 상단 윈도우 바 -->
+  <g transform="translate(0, 0)">
+    <path d="M 12,0 L 788,0 A 12,12 0 0,1 800,12 L 800,35 L 0,35 L 0,12 A 12,12 0 0,1 12,0 Z" fill="#0b0f19" />
+    <!-- 신호등 버튼 -->
+    <circle cx="20" cy="18" r="6" fill="#ef4444" />
+    <circle cx="40" cy="18" r="6" fill="#f59e0b" />
+    <circle cx="60" cy="18" r="6" fill="#10b981" />
+    <!-- 파일 탭 활성화 상태 -->
+    <path d="M 90,35 L 105,12 L 240,12 L 255,35 Z" fill="#0f172a" />
+    <text x="120" y="26" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" fill="#94a3b8">Jonghyeok.tsx</text>
+    <text x="225" y="25" font-family="sans-serif" font-size="10" fill="#64748b" font-weight="bold">×</text>
+  </g>
+
+  <!-- 우측 백그라운드 발광 효과 (글로우) -->
+  <circle cx="700" cy="100" r="60" fill="#06b6d4" opacity="0.1" filter="blur(20px)" />
+  <circle cx="100" cy="150" r="50" fill="#6366f1" opacity="0.08" filter="blur(15px)" />
+
+  <!-- 코드 에디터 본문 텍스트 -->
+  <g transform="translate(30, 65)">
+    <!-- 라인 번호 -->
+    <text x="0" y="25" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="14" fill="#475569">1</text>
+    <text x="0" y="55" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="14" fill="#475569">2</text>
+    <text x="0" y="85" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="14" fill="#475569">3</text>
+    <text x="0" y="115" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="14" fill="#475569">4</text>
+
+    <!-- 코드 라인 1 -->
+    <text x="30" y="25" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="15" fill="#f8fafc">
+      <tspan fill="#f43f5e">const</tspan> <tspan fill="#38bdf8">developer</tspan> <tspan fill="#f43f5e">=</tspan> <tspan fill="#e2e8f0">{</tspan>
+    </text>
+
+    <!-- 코드 라인 2 -->
+    <text x="50" y="55" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="15" fill="#f8fafc">
+      <tspan fill="#fb7185">name</tspan><tspan fill="#e2e8f0">:</tspan> <tspan fill="#34d399">'Jonghyeok (전종혁)'</tspan><tspan fill="#e2e8f0">,</tspan>
+    </text>
+
+    <!-- 코드 라인 3 -->
+    <text x="50" y="85" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="15" fill="#f8fafc">
+      <tspan fill="#fb7185">specialization</tspan><tspan fill="#e2e8f0">:</tspan> <tspan fill="#38bdf8">[</tspan><tspan fill="#34d399">'React Native'</tspan><tspan fill="#e2e8f0">,</tspan> <tspan fill="#34d399">'Next.js'</tspan><tspan fill="#e2e8f0">,</tspan> <tspan fill="#34d399">'Agentic AI'</tspan><tspan fill="#38bdf8">]</tspan>
+    </text>
+
+    <!-- Code Line 4 -->
+    <text x="30" y="115" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="15" fill="#e2e8f0">
+      <tspan fill="#e2e8f0">};</tspan>
+    </text>
+  </g>
+
+  <!-- 에디터 하단 상태 바 (Status Bar) -->
+  <g transform="translate(0, 180)">
+    <path d="M 0,0 L 800,0 L 800,8 A 12,12 0 0,1 788,20 L 12,20 A 12,12 0 0,1 0,8 Z" fill="#06b6d4" />
+    <text x="20" y="14" font-family="sans-serif" font-size="11" fill="#0f172a" font-weight="600">✓ main</text>
+    <text x="700" y="14" font-family="sans-serif" font-size="11" fill="#0f172a" font-weight="600" text-anchor="end">TypeScript</text>
+    <text x="780" y="14" font-family="sans-serif" font-size="11" fill="#0f172a" font-weight="600" text-anchor="end">UTF-8</text>
+  </g>
+</svg>
