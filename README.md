@@ -10,9 +10,6 @@
   </p>
 
   <p>
-    <a href="mailto:jacob122@naver.com">
-      <img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
-    </a>
     <a href="mailto:jacob122405@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
@@ -41,7 +38,7 @@
 ## AI-assisted Workflow
 
 - **Planning:** Codex, Notion, Obsidian을 활용해 요구사항, 사용자 흐름, 기능 우선순위를 구조화합니다.
-- **Implementation:** AI 도구를 활용해 UI 구현, API 연동, 리팩토링 방향을 빠르게 검토하고 적용합니다.
+- **Implementation:** AI 도구를 활용해 빠른 프로토타이핑, UI 구현, API 연동, 리팩토링 방향을 빠르게 검토하고 적용합니다.
 - **Testing:** Vitest와 Playwright 기반 검증 흐름으로 기능 변경 시 발생할 수 있는 회귀를 확인합니다.
 - **Documentation:** 프로젝트 구조, 배포 과정, 의사결정, 회고 내용을 팀원이 이어받기 쉬운 형태로 정리합니다.
 
