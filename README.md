@@ -94,7 +94,7 @@
 
 ### 🚀 Featured Projects
 
-#### 1. [Atheleo](https://github.com/JJonyeok2/Atheleo) - AI 실시간 운동 자세 및 체형 분석 모바일 앱
+#### 1. [Atheleo](https://github.com/JJonyeok2/Atheleo) - AI 실시간 운동 자세 및 체형 분석 모바일 앱 - 2인 개발, 팀장
 > iOS 실제 기기 환경을 기반으로 실시간 카메라 프레임을 읽어 사용자의 스쿼트/푸시업 자세를 교정해주고, 신체 랜드마크 분석을 통해 8가지 체형 유형을 분류해주는 헬스케어 모바일 애플리케이션입니다.
 *   **Key Work**: 
     *   Vision Camera 기반 실시간 카메라 프레임 수신 및 비동기 파이프라인 최적화.
@@ -103,7 +103,7 @@
     *   시각장애인 또는 운동 중 화면을 보기 어려운 환경을 위해 **TTS(Text-to-Speech) 실시간 음성 피드백** 연동.
 *   **Stack**: `React Native (0.74.3)`, `Objective-C++ (Native Module)`, `Vision Camera`, `Reanimated`, `Worklets Core`, `Django REST`, `MediaPipe`
 
-#### 2. [oh_my_agents](https://github.com/Joraemon-s-Secret-Gadgets/oh_my_agents) - 에이전트(AI) 협업 표준 가이드라인 및 경량 하네스(Harness)
+#### 2. [oh_my_agents](https://github.com/Joraemon-s-Secret-Gadgets/oh_my_agents) - 에이전트(AI) 협업 표준 가이드라인 및 경량 하네스(Harness) 
 > 팀 협업 환경에서 멀티 에이전트(AI)들이 주체적이고 일관적으로 태스크를 위임, 수행, 리뷰, 검증하도록 돕는 프롬프트 엔진 및 경량 실행 오케스트레이션 프레임워크입니다.
 *   **Key Work**:
     *   역할 에이전트(Spec, Task, Implementation, Review 등)들의 라이프사이클(Spawn/Wait/Close) 및 데이터 인계 프로토콜 설계.
@@ -111,24 +111,24 @@
     *   에이전트가 코덱스(Codex) 및 툴 환경에서 규칙서(`AGENTS.md`)를 준수하며 협업하도록 트리거를 연동하는 하네스 설계.
 *   **Stack**: `Python`, `GitHub API`, `Agentic Workflow`, `Codex Skill`
 
-#### 3. [JobPocket](https://github.com/Joraemon-s-Secret-Gadgets/job-pocket) - RAG 기반 AI 자기소개서 초안 생성 및 첨삭 서비스
+#### 3. [JobPocket](https://github.com/Joraemon-s-Secret-Gadgets/job-pocket) - RAG 기반 AI 자기소개서 초안 생성 및 첨삭 서비스 - 6인 개발
 > 취업 준비생이 경험 스펙과 포지션 채용 정보를 입력하면 채용 데이터를 기반으로 직무 적합성과 설득력을 평가하여 맞춤형 자소서 초안을 자동 생성/수정해주는 웹 서비스입니다.
 *   **Key Work**:
     *   **FastAPI**를 연계한 백엔드 API 설계 및 Pydantic 기반 데이터 검증 파이프라인 수립.
     *   **MySQL 9 Vector Store 및 NoSQL 기능**을 결합하여 통합 데이터베이스 아키텍처 구성 및 벡터 매칭 성능 확보.
     *   **RunPod Serverless** 환경에 LG EXAONE 3.5 7.8B 모델 인프라 구축 및 프롬프트 엔지니어링 수행.
     *   `LangSmith`를 이용한 LLM 호출 파이프라인 모니터링 및 성능 평가 인프라 마련.
-*   **Stack**: `FastAPI`, `Streamlit`, `MySQL (Vector)`, `RunPod Serverless`, `HuggingFace`, `LangChain`, `LangSmith`
+*   **Stack**: `FastAPI`, `Streamlit`, `MySQL (Vector)`, `RunPod Serverless`, `HuggingFace`, `LangChain`, `LangSmith`, `Jira`
 
-#### 4. [Olfit](https://github.com/Joraemon-s-Secret-Gadgets/olfit) - OOTD 스타일 분석 기반 AI 향수 추천 플랫폼
+#### 4. [Olfit](https://github.com/Joraemon-s-Secret-Gadgets/olfit) - OOTD 스타일 분석 기반 AI 향수 추천 플랫폼 - 6인 개발
 > 사용자가 업로드한 OOTD(오늘의 착장) 이미지를 분석하여 스타일 스코어를 산출하고, 800여 개 향수 데이터 중 개인화된 아우라에 맞는 제품을 매칭해주는 큐레이션 서비스입니다.
 *   **Key Work**: 
     *   Vite + React + TypeScript 환경에서 **Zustand를 활용한 전역 상태 관리 및 추천 API 흐름 제어**.
     *   **Shadcn UI** 기반의 감도 높은 레이아웃 설계 및 리포트 이미지 캡처/내보내기 기능 구현.
     *   **Nvidia NIM (Gemma VLM)** 이미지 분석 파이프라인 연동 기획 및 시각 정보 벡터 매칭 프론트 로직 구축.
-*   **Stack**: `React`, `TypeScript`, `Vite`, `Zustand`, `Shadcn UI`, `Django REST`, `MySQL`, `Docker`
+*   **Stack**: `React`, `TypeScript`, `html2canvas`, `Vite`, `Zustand`, `Shadcn UI`, `Django REST`, `MySQL`, `Docker`, `Jira`
 
-#### 5. [Lovv](https://github.com/Joraemon-s-Secret-Gadgets/Lovv_web) - 한·일 소도시 감성 여행 AI 큐레이션 서비스
+#### 5. [Lovv](https://github.com/Joraemon-s-Secret-Gadgets/Lovv_web) - 한·일 소도시 감성 여행 AI 큐레이션 서비스 - 5인 개발
 > 여행 Pace, 페스티벌 포함 여부 등 사용자의 선호를 AI Chat 인터페이스로 좁혀가며 최적의 로컬 소도시 여행 일정을 개인화하여 제작해주는 큐레이션 웹 애플리케이션입니다.
 *   **Key Work**:
     *   여행 무드 설정을 위한 인터랙티브 온보딩(Onboarding) 카드 플로우 개발.
@@ -136,7 +136,7 @@
     *   **AWS SAM(Lambda, API Gateway)** 및 **Cognito/DynamoDB** 기반 서버리스 API 통합 연동.
 *   **Stack**: `React`, `TypeScript`, `Vite`, `Tailwind CSS`, `AWS SAM (Python Lambda)`, `DynamoDB`, `RDS MySQL`
 
-#### 6. [Bluehand-Founder](https://github.com/JJonyeok2/Bluehand-Founder) - 위치 기반 현대자동차 정비소 매칭 서비스
+#### 6. [Bluehand-Founder](https://github.com/JJonyeok2/Bluehand-Founder) - 위치 기반 현대자동차 정비소 매칭 서비스 - 6인 개발
 > 사용자의 현재 GPS 기반 위치 정보나 검색 지역을 바탕으로 전국 현대자동차 블루핸즈 정비소 리스트를 조회하고, 특수 정비(전기차, 수소차, 판금, N-Line 등) 필터를 적용해 매칭해주는 지리정보 웹 서비스입니다.
 *   **Key Work**:
     *   `streamlit-js-eval` API를 활용하여 사용자의 **실시간 GPS 위치 좌표 데이터 동적 획득**.
@@ -149,7 +149,7 @@
 ### 🏢 Organizations & Teams
 
 *   **[Joraemon-s-Secret-Gadgets (조라에몽의 만능 도구들)](https://github.com/Joraemon-s-Secret-Gadgets)**: 혁신적인 감성 서비스(Olfit, JobPocket, Lovv 등)를 개발하기 위해 모인 프로젝트 개발 Org.
-*   **SK Networks Family (SKN26)**: AI와 Python 기초를 학습하고 검증하는 AI 캠프.
+*   **SK Networks Family (SKN26)**: AI와 Python 등 개발에 대한 기초 베이스를 학습하고 검증하는 AI 캠프.
 
 ---
 
