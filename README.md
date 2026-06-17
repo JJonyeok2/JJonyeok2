@@ -7,7 +7,7 @@
 
 <p align="center">
   <!-- Dynamic Typing Animation Effect -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=06b6d4&center=true&vCenter=true&width=550&lines=Frontend+%26+Mobile+Full-stack Engineer;React+Native+%26+React+(Vite);AI+Tooling+%26+Native+Modules;Building+Premium+Experiences" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=06b6d4&center=true&vCenter=true&width=550&lines=Frontend+%26+Mobile+Engineer;React+Native+%26+React+(Vite);AI+Tooling+%26+Native+Modules;Building+Premium+Experiences" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
