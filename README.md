@@ -77,7 +77,9 @@
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -103,7 +105,7 @@
     *   시각장애인 또는 운동 중 화면을 보기 어려운 환경을 위해 **TTS(Text-to-Speech) 실시간 음성 피드백** 연동.
 *   **Stack**: `React Native (0.74.3)`, `Objective-C++ (Native Module)`, `Vision Camera`, `Reanimated`, `Worklets Core`, `Django REST`, `MediaPipe`
 
-#### 2. [oh_my_agents](https://github.com/Joraemon-s-Secret-Gadgets/oh_my_agents) - 에이전트(AI) 협업 표준 가이드라인 및 경량 하네스(Harness) 
+#### 2. [oh_my_agents](https://github.com/Joraemon-s-Secret-Gadgets/oh_my_agents) - 에이전트(AI) 협업 표준 가이드라인 및 경량 하네스 - 1인 개발(Harness) 
 > 팀 협업 환경에서 멀티 에이전트(AI)들이 주체적이고 일관적으로 태스크를 위임, 수행, 리뷰, 검증하도록 돕는 프롬프트 엔진 및 경량 실행 오케스트레이션 프레임워크입니다.
 *   **Key Work**:
     *   역할 에이전트(Spec, Task, Implementation, Review 등)들의 라이프사이클(Spawn/Wait/Close) 및 데이터 인계 프로토콜 설계.
@@ -126,7 +128,7 @@
     *   Vite + React + TypeScript 환경에서 **Zustand를 활용한 전역 상태 관리 및 추천 API 흐름 제어**.
     *   **Shadcn UI** 기반의 감도 높은 레이아웃 설계 및 리포트 이미지 캡처/내보내기 기능 구현.
     *   **Nvidia NIM (Gemma VLM)** 이미지 분석 파이프라인 연동 기획 및 시각 정보 벡터 매칭 프론트 로직 구축.
-*   **Stack**: `React`, `TypeScript`, `html2canvas`, `Vite`, `Zustand`, `Shadcn UI`, `Django REST`, `MySQL`, `Docker`, `Jira`
+*   **Stack**: `React`, `TypeScript`, `html2canvas`, `Vite`, `Zustand`, `Shadcn UI`, `Django REST`, `MySQL`, `Docker / Docker Compose`, `Redis`, `Jira`
 
 #### 5. [Lovv](https://github.com/Joraemon-s-Secret-Gadgets/Lovv_web) - 한·일 소도시 감성 여행 AI 큐레이션 서비스 - 5인 개발
 > 여행 Pace, 페스티벌 포함 여부 등 사용자의 선호를 AI Chat 인터페이스로 좁혀가며 최적의 로컬 소도시 여행 일정을 개인화하여 제작해주는 큐레이션 웹 애플리케이션입니다.
