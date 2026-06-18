@@ -125,9 +125,8 @@
 > 취업 준비생이 경험 스펙과 포지션 채용 정보를 입력하면 채용 데이터를 기반으로 직무 적합성과 설득력을 평가하여 맞춤형 자소서 초안을 자동 생성/수정해주는 웹 서비스입니다.
 *   **Key Work**:
     *   **FastAPI**를 연계한 백엔드 API 설계 및 Pydantic 기반 데이터 검증 파이프라인 수립.
-    *   **MySQL 9 Vector Store 및 NoSQL 기능**을 결합하여 통합 데이터베이스 아키텍처 구성 및 벡터 매칭 성능 확보.
-    *   **RunPod Serverless** 환경에 LG EXAONE 3.5 7.8B 모델 인프라 구축 및 프롬프트 엔지니어링 수행.
-    *   `LangSmith`를 이용한 LLM 호출 파이프라인 모니터링 및 성능 평가 인프라 마련.
+    *   Chainlit으로 빠른 프로토타이핑 -> Streamlit 기반의 UI 구성 
+
 *   **Stack**: `FastAPI`, `Streamlit`, `MySQL (Vector)`, `RunPod Serverless`, `HuggingFace`, `LangChain`, `LangSmith`, `Jira`
 
 #### 4. [Olfit](https://github.com/Joraemon-s-Secret-Gadgets/olfit) - OOTD 스타일 분석 기반 AI 향수 추천 플랫폼 - 6인 개발
@@ -141,8 +140,10 @@
 #### 5. [Lovv](https://github.com/Joraemon-s-Secret-Gadgets/Lovv_web) - 한·일 소도시 감성 여행 AI 큐레이션 서비스 - 5인 개발
 > 여행 Pace, 페스티벌 포함 여부 등 사용자의 선호를 AI Chat 인터페이스로 좁혀가며 최적의 로컬 소도시 여행 일정을 개인화하여 제작해주는 큐레이션 웹 애플리케이션입니다.
 *   **Key Work**:
+
+    *   와이어프레임부터, PoC to Prod 까지 UI/UX 전체 설계
     *   여행 무드 설정을 위한 인터랙티브 온보딩(Onboarding) 카드 플로우 개발.
-    *   Trip-duration 칩 및 대화형 일정 좁히기 Mock 챗 인터페이스 UI 컴포넌체 설계.
+    *   Trip-duration 지도 및 대화형 일정 생성 챗 인터페이스 UI 컴포넌트 설계.
     *   **AWS SAM(Lambda, API Gateway)** 및 **Cognito/DynamoDB** 기반 서버리스 API 통합 연동.
 *   **Stack**: `React`, `TypeScript`, `Vite`, `S3 + CloudFront`,`Tailwind CSS`, `AWS SAM (Python Lambda)`, `DynamoDB`, `RDS MySQL`
 
