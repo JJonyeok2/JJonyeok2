@@ -65,7 +65,6 @@
     <td align="center"><strong>Backend &amp; AI</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS_SAM-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" />
@@ -73,11 +72,20 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Database &amp; Infra</strong></td>
+    <td align="center"><strong>Database &amp; Cache</strong></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" />
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Cloud &amp; DevOps</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
+      <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS_SAM-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
     </td>
@@ -103,7 +111,7 @@
     *   카메라 프레임의 고성능 Base64 변환을 위해 **iOS 네이티브 프레임 프로세서 플러그인(`ToBase64Plugin.mm`, Objective-C++)**을 직접 커스텀 개발 및 브릿지 연결.
     *   **React Native Reanimated** 기반의 다이나믹 애니메이션 및 피드백 섬광(Green/Yellow/Red) UX 구현.
     *   시각장애인 또는 운동 중 화면을 보기 어려운 환경을 위해 **TTS(Text-to-Speech) 실시간 음성 피드백** 연동.
-*   **Stack**: `React Native (0.74.3)`, `Objective-C++ (Native Module)`, `Vision Camera`, `Reanimated`, `Worklets Core`, `Django REST`, `MediaPipe`
+*   **Stack**: `React Native (0.74.3)`, `Objective-C++ (Native Module)`, `Vision Camera`, `Reanimated`, `Worklets Core`, `Django REST`, `MediaPipe`, `Xcode`
 
 #### 2. [oh_my_agents](https://github.com/Joraemon-s-Secret-Gadgets/oh_my_agents) - 에이전트(AI) 협업 표준 가이드라인 및 경량 하네스 - 1인 개발(Harness) 
 > 팀 협업 환경에서 멀티 에이전트(AI)들이 주체적이고 일관적으로 태스크를 위임, 수행, 리뷰, 검증하도록 돕는 프롬프트 엔진 및 경량 실행 오케스트레이션 프레임워크입니다.
@@ -136,7 +144,7 @@
     *   여행 무드 설정을 위한 인터랙티브 온보딩(Onboarding) 카드 플로우 개발.
     *   Trip-duration 칩 및 대화형 일정 좁히기 Mock 챗 인터페이스 UI 컴포넌체 설계.
     *   **AWS SAM(Lambda, API Gateway)** 및 **Cognito/DynamoDB** 기반 서버리스 API 통합 연동.
-*   **Stack**: `React`, `TypeScript`, `Vite`, `Tailwind CSS`, `AWS SAM (Python Lambda)`, `DynamoDB`, `RDS MySQL`
+*   **Stack**: `React`, `TypeScript`, `Vite`, `S3 + CloudFront`,`Tailwind CSS`, `AWS SAM (Python Lambda)`, `DynamoDB`, `RDS MySQL`
 
 #### 6. [Bluehand-Founder](https://github.com/JJonyeok2/Bluehand-Founder) - 위치 기반 현대자동차 정비소 매칭 서비스 - 6인 개발
 > 사용자의 현재 GPS 기반 위치 정보나 검색 지역을 바탕으로 전국 현대자동차 블루핸즈 정비소 리스트를 조회하고, 특수 정비(전기차, 수소차, 판금, N-Line 등) 필터를 적용해 매칭해주는 지리정보 웹 서비스입니다.
@@ -171,5 +179,5 @@
 *   📝 **Dev Blog**: [Obsidian Zettelkasten](https://github.com/JJonyeok2/JJonyeoks_zet_note)
 
 <p align="right">
-  <sub>Last updated: 2026.06.17</sub>
+  <sub>Last updated: 2026.06.18</sub>
 </p>
