@@ -128,7 +128,7 @@
     *   Vite + React + TypeScript 환경에서 **Zustand를 활용한 전역 상태 관리 및 추천 API 흐름 제어**.
     *   **Shadcn UI** 기반의 감도 높은 레이아웃 설계 및 리포트 이미지 캡처/내보내기 기능 구현.
     *   **Nvidia NIM (Gemma VLM)** 이미지 분석 파이프라인 연동 기획 및 시각 정보 벡터 매칭 프론트 로직 구축.
-*   **Stack**: `React`, `TypeScript`, `html2canvas`, `Vite`, `Zustand`, `Shadcn UI`, `Django REST`, `MySQL`, `Docker / Docker Compose`, `Redis`, `Jira`
+*   **Stack**: `React`, `TypeScript`, `html2canvas`, `Vite`, `Zustand`, `Shadcn UI`, `Django REST`, `MySQL`, `Docker / Docker Compose`, `Jira`
 
 #### 5. [Lovv](https://github.com/Joraemon-s-Secret-Gadgets/Lovv_web) - 한·일 소도시 감성 여행 AI 큐레이션 서비스 - 5인 개발
 > 여행 Pace, 페스티벌 포함 여부 등 사용자의 선호를 AI Chat 인터페이스로 좁혀가며 최적의 로컬 소도시 여행 일정을 개인화하여 제작해주는 큐레이션 웹 애플리케이션입니다.
