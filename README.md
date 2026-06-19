@@ -124,7 +124,7 @@
 #### 3. [JobPocket](https://github.com/Joraemon-s-Secret-Gadgets/job-pocket) - RAG 기반 AI 자기소개서 초안 생성 및 첨삭 서비스 - 6인 개발
 > 취업 준비생이 경험 스펙과 포지션 채용 정보를 입력하면 채용 데이터를 기반으로 직무 적합성과 설득력을 평가하여 맞춤형 자소서 초안을 자동 생성/수정해주는 웹 서비스입니다.
 *   **Key Work**:
-    *   **FastAPI**를 연계한 백엔드 API 설계 및 Pydantic 기반 데이터 검증 파이프라인 수립.
+    *   **FastAPI**를 연계한 백엔드 API 설계.
     *   Chainlit으로 빠른 프로토타이핑 -> Streamlit 기반의 UI 구성 
 
 *   **Stack**: `FastAPI`, `Streamlit`, `MySQL (Vector)`, `RunPod Serverless`, `HuggingFace`, `LangChain`, `LangSmith`, `Jira`
@@ -137,10 +137,9 @@
     *   **Nvidia NIM (Gemma VLM)** 이미지 분석 파이프라인 연동 기획 및 시각 정보 벡터 매칭 프론트 로직 구축.
 *   **Stack**: `React`, `TypeScript`, `html2canvas`, `Vite`, `Zustand`, `Shadcn UI`, `Django REST`, `MySQL`, `Docker / Docker Compose`, `Jira`
 
-#### 5. [Lovv](https://github.com/Joraemon-s-Secret-Gadgets/Lovv_web) - 한·일 소도시 감성 여행 AI 큐레이션 서비스 - 5인 개발
+#### 5. [Lovv](https://github.com/Joraemon-s-Secret-Gadgets/Lovv) - 한·일 소도시 감성 여행 AI 큐레이션 서비스 - 5인 개발
 > 여행 Pace, 페스티벌 포함 여부 등 사용자의 선호를 AI Chat 인터페이스로 좁혀가며 최적의 로컬 소도시 여행 일정을 개인화하여 제작해주는 큐레이션 웹 애플리케이션입니다.
 *   **Key Work**:
-
     *   와이어프레임부터, PoC to Prod 까지 UI/UX 전체 설계
     *   여행 무드 설정을 위한 인터랙티브 온보딩(Onboarding) 카드 플로우 개발.
     *   Trip-duration 지도 및 대화형 일정 생성 챗 인터페이스 UI 컴포넌트 설계.
