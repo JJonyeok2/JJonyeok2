@@ -179,5 +179,5 @@
 *   📝 **Dev Blog**: [Obsidian Zettelkasten](https://github.com/JJonyeok2/JJonyeoks_zet_note)
 
 <p align="right">
-  <sub>Last updated: 2026.06.18</sub>
+  <sub>Last updated: 2026.06.30</sub>
 </p>
