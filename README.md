@@ -122,7 +122,7 @@
 *   **Stack**: `Python`, `GitHub API`, `Agentic Workflow`, `Codex Skill`
 
 #### 3. [JobPocket](https://github.com/Joraemon-s-Secret-Gadgets/job-pocket) - RAG 기반 AI 자기소개서 초안 생성 및 첨삭 서비스 - 6인 개발
-> 취업 준비생이 경험 스펙과 포지션 채용 정보를 입력하면 채용 데이터를 기반으로 직무 적합성과 설득력을 평가하여 맞춤형 자소서 초안을 자동 생성/수정해주는 웹 서비스입니다.
+> 취업 준비생이 경험과 포지션 채용 정보를 입력하면 채용 데이터를 기반으로 직무 적합성과 설득력을 평가하여 맞춤형 자소서 초안을 자동 생성및 피드백을 통해 수정해주는 웹 서비스입니다.
 *   **Key Work**:
     *   **FastAPI**를 연계한 백엔드 API 설계.
     *   Chainlit으로 빠른 프로토타이핑 -> Streamlit 기반의 UI 구성 
@@ -130,7 +130,7 @@
 *   **Stack**: `FastAPI`, `Streamlit`, `MySQL (Vector)`, `RunPod Serverless`, `HuggingFace`, `LangChain`, `LangSmith`, `Jira`
 
 #### 4. [Olfit](https://github.com/Joraemon-s-Secret-Gadgets/olfit) - OOTD 스타일 분석 기반 AI 향수 추천 플랫폼 - 6인 개발
-> 사용자가 업로드한 OOTD(오늘의 착장) 이미지를 분석하여 스타일 스코어를 산출하고, 800여 개 향수 데이터 중 개인화된 아우라에 맞는 제품을 매칭해주는 큐레이션 서비스입니다.
+> 사용자가 업로드한 OOTD(오늘의 착장) 이미지를 분석하여 스타일에 맞는 노트를 산출하고, 800여 개 데이터 중 개인의 아우라에 맞는 제품을 매칭해주는 큐레이션 서비스입니다.
 *   **Key Work**: 
     *   Vite + React + TypeScript 환경에서 **Zustand를 활용한 전역 상태 관리 및 추천 API 흐름 제어**.
     *   **Shadcn UI** 기반의 감도 높은 레이아웃 설계 및 리포트 이미지 캡처/내보내기 기능 구현.
@@ -138,7 +138,7 @@
 *   **Stack**: `React`, `TypeScript`, `html2canvas`, `Vite`, `Zustand`, `Shadcn UI`, `Django REST`, `MySQL`, `Docker / Docker Compose`, `Jira`
 
 #### 5. [Lovv](https://github.com/Joraemon-s-Secret-Gadgets/Lovv) - 한·일 소도시 감성 여행 AI 큐레이션 서비스 - 4인 개발
-> 여행 Pace, 페스티벌 포함 여부 등 사용자의 선호를 AI Chat 인터페이스로 좁혀가며 최적의 로컬 소도시 여행 일정을 개인화하여 제작해주는 큐레이션 웹 애플리케이션입니다.
+> 여행 Pace, 축제 포함 여부 등 사용자의 선호를 AI Chat 인터페이스로 좁혀가며 최적의 로컬 소도시 여행 일정을 개인화하여 제작해주는 큐레이션 웹 애플리케이션입니다.
 *   **Key Work**:
     *   와이어프레임부터, PoC to Prod 까지 UI/UX 전체 설계
     *   여행 무드 설정을 위한 인터랙티브 온보딩(Onboarding) 카드 플로우 개발.
@@ -147,7 +147,7 @@
 *   **Stack**: `React`, `TypeScript`, `Vite`, `S3 + CloudFront`,`Tailwind CSS`, `AWS SAM (Python Lambda)`, `DynamoDB`, `RDS MySQL`
 
 #### 6. [Bluehand-Founder](https://github.com/JJonyeok2/Bluehand-Founder) - 위치 기반 현대자동차 정비소 매칭 서비스 - 6인 개발
-> 사용자의 현재 GPS 기반 위치 정보나 검색 지역을 바탕으로 전국 현대자동차 블루핸즈 정비소 리스트를 조회하고, 특수 정비(전기차, 수소차, 판금, N-Line 등) 필터를 적용해 매칭해주는 지리정보 웹 서비스입니다.
+> 사용자의 현재 GPS 기반 위치 정보나 검색 지역을 바탕으로 전국 현대자동차 블루핸즈 정비소 리스트를 조회하고, 특수 정비(전기차, 수소차, 판금, N-Line 등) 필터를 적용해 매칭해주는 웹 서비스입니다.
 *   **Key Work**:
     *   `streamlit-js-eval` API를 활용하여 사용자의 **실시간 GPS 위치 좌표 데이터 동적 획득**.
     *   `Folium` 지도를 연동하여 검색된 정비소 지점 위치 마커 시각화 및 세부 사양 정보창 연계.
@@ -158,7 +158,7 @@
 
 ### 🏢 Organizations & Teams
 
-*   **[Joraemon-s-Secret-Gadgets (조라에몽의 만능 도구들)](https://github.com/Joraemon-s-Secret-Gadgets)**: 혁신적인 감성 서비스(Olfit, JobPocket, Lovv 등)를 개발하기 위해 모인 프로젝트 개발 Org.
+*   **[Joraemon-s-Secret-Gadgets (조라에몽의 만능 도구들)](https://github.com/Joraemon-s-Secret-Gadgets)**: 혁신적인 서비스(Olfit, JobPocket, Lovv 등)를 개발하기 위해 모인 프로젝트 개발 Org.
 *   **SK Networks Family (SKN26)**: AI와 Python 등 개발에 대한 기초 베이스를 학습하고 검증하는 AI 캠프.
 
 ---
