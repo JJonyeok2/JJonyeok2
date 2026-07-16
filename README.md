@@ -111,7 +111,7 @@
     *   카메라 프레임의 고성능 Base64 변환을 위해 **iOS 네이티브 프레임 프로세서 플러그인(`ToBase64Plugin.mm`, Objective-C++)**을 직접 커스텀 개발 및 브릿지 연결.
     *   **React Native Reanimated** 기반의 다이나믹 애니메이션 및 피드백 섬광(Green/Yellow/Red) UX 구현.
     *   시각장애인 또는 운동 중 화면을 보기 어려운 환경을 위해 **TTS(Text-to-Speech) 실시간 음성 피드백** 연동.
-*   **Stack**: `React Native (0.74.3)`, `Objective-C++ (Native Module)`, `Vision Camera`, `Reanimated`, `Worklets Core`, `Django REST`, `MediaPipe`, `Xcode`
+*   **Stack**: `React Native (0.74.3)`, `Objective-C++ (Native Module)`, `Vision Camera`, `Reanimated`, `Worklets Core`, `Django REST`, `MediaPipe`, `Movenet`, `Xcode`
 
 #### 2. [oh_my_agents](https://github.com/Joraemon-s-Secret-Gadgets/oh_my_agents) - 에이전트(AI) 협업 표준 가이드라인 및 경량 하네스 - 1인 개발(Harness) 
 > 팀 협업 환경에서 멀티 에이전트(AI)들이 주체적이고 일관적으로 태스크를 위임, 수행, 리뷰, 검증하도록 돕는 프롬프트 엔진 및 경량 실행 오케스트레이션 프레임워크입니다.
