@@ -7,7 +7,7 @@
 
 <p align="center">
   <!-- Dynamic Typing Animation Effect -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=06b6d4&center=true&vCenter=true&width=550&lines=Frontend+%26+Mobile+Engineer;React+Native+%26+React+(Vite);AI+Tooling+%26+Native+Modules;Building+Premium+Experiences" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=06b6d4&center=true&vCenter=true&width=550&lines=Full-Stack+%26+Mobile+Engineer;Scalable+Backend+%26+API+Design;AI-Integrated+Architecture;Building+End-to-End+Experiences" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -24,24 +24,23 @@
 
 ### 💫 About Me
 
-* 📱 **Frontend & Mobile Specialist**: **React Native**를 활용한 고성능 크로스 플랫폼 모바일 앱 개발과 **React(Vite)** 기반의 인터랙티브 웹 UI 구현에 강점이 있습니다.
-* 🛠️ **Native Module Bridge**: 필요에 따라 iOS 네이티브 프레임워크와 직접 통신하는 네이티브 프레임 프로세서 플러그인(Objective-C++)을 개발하여 모바일 앱 성능을 극대화합니다.
-* 🤖 **AI-Powered UI/UX Builder**: 단순한 화면 구현을 넘어, **Agentic Workflows, RAG, VLM** 등 인공지능 기술을 프론트엔드 서비스 환경(Web/App)에 유연하게 통합하여 가치 있는 사용자 경험을 설계합니다.
-* 🎨 **Premium Aesthetics & Detail**: Zustand, React Query, Tailwind CSS, Shadcn UI 등을 활용하여 감도 높은 UI를 설계하고, 사용자의 비주얼 피드백과 Micro-interaction을 중시합니다.
+* 🚀 **Full-Stack & Mobile Engineer**: **React Native**와 **React(Vite)** 기반의 감도 높은 프론트엔드 환경부터 **FastAPI, Django, AWS Serverless**를 아우르는 백엔드 아키텍처까지, 서비스의 End-to-End를 주도적으로 설계하고 구축합니다.
+* ⚙️ **Scalable Backend & Data Pipeline**: AWS SAM(Lambda, API Gateway)을 활용한 서버리스 API 구축 및 MySQL, DynamoDB 기반의 안정적인 데이터베이스 모델링으로 확장성 있는 시스템을 구현합니다.
+* 🤖 **AI-Integrated Architecture**: 단순한 API 호출을 넘어, **Agentic Workflows, RAG, VLM(Vision Language Model)** 등 인공지능 모델을 실제 프로덕트 환경의 데이터 파이프라인과 유연하게 통합합니다.
+* 🛠️ **Native Bridge & Performance**: 모바일 앱의 성능 극대화가 필요할 때, iOS 네이티브 프레임워크와 직접 통신하는 네이티브 프레임 프로세서 플러그인(Objective-C++)을 직접 개발하여 병목을 해결합니다.
 
 ---
 
 ### 🧠 AI Utilization (AI 도구 활용 방식)
 
-저는 일상적인 개발 생산성 향상과 검색, 지식 관리 및 디자인-코드 연동을 최적화하기 위해 다양한 **AI 어시스턴트와 MCP(Model Context Protocol) 기술을 적극적으로 도입**하여 활용합니다.
+저는 개발 생산성 향상과 복잡한 아키텍처 설계를 최적화하기 위해, 다양한 **AI 어시스턴트와 MCP(Model Context Protocol) 기술을 시스템 전반에 적극적으로 도입**합니다.
 
-*   **AI Code & Design Integration**:
-    *   **Figma MCP**와 같은 디자인 결합형 AI 도구를 도입하여, 피그마 디자인 명세를 AI가 직접 해석하게 함으로써 UI 컴포넌트 설계와 리액트/리액트 네이티브 코드 변환 작업을 신속하게 수행합니다.
-    *   **Superpowers** 및 다양한 AI 코드 어시스턴트를 연동하여 단순한 코드 완성을 넘어 전체 프로젝트의 문맥을 고려한 고난도 디버깅 및 스마트 리팩토링을 수행합니다.
 *   **Model Context Protocol (MCP) Orchestration**:
-    *   다양한 전용 MCP 서버를 연결하여 AI 어시스턴트가 로컬 파일 시스템, Docker 환경, GitHub API 등의 개발 환경 맥락을 직접 참조하게 함으로써 에러 추적 및 자동화 작업을 지능적으로 보조받습니다.
+    *   다양한 전용 MCP 서버를 연결하여 AI 어시스턴트가 로컬 파일 시스템, Docker 컨테이너, GitHub API 등의 개발 환경 맥락을 직접 참조하게 함으로써, 에러 추적 및 백엔드 인프라 자동화 작업을 지능적으로 보조받습니다.
+*   **AI Code & Design Integration**:
+    *   **Figma MCP**와 같은 디자인 결합형 AI 도구를 도입하여 UI 컴포넌트 설계를 자동화하고, 다양한 AI 코드 어시스턴트를 연동해 프론트엔드-백엔드 간의 API 인터페이스 불일치를 방지하며 고난도 디버깅을 수행합니다.
 *   **AI-Driven Knowledge Management**:
-    *   개인 개발 지식 아카이빙 시스템을 구축하고 이를 지능형 검색 엔진과 결합하여 이전에 학습하고 기록했던 개발 지식 및 기술 트렌드를 빠르게 요약·활용합니다.
+    *   개인 개발 지식 아카이빙 시스템을 구축하고 이를 지능형 검색 엔진과 결합하여, 새로운 스택 도입이나 시스템 아키텍처 설계 시 이전에 기록한 기술 검증(PoC) 데이터를 빠르게 요약 및 활용합니다.
 
 ---
 
@@ -49,7 +48,17 @@
 
 <table width="100%">
   <tr>
-    <td align="center" width="20%"><strong>Mobile &amp; Web</strong></td>
+    <td align="center" width="20%"><strong>Backend &amp; AI</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Mobile &amp; Web</strong></td>
     <td>
       <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -58,17 +67,6 @@
       <img src="https://img.shields.io/badge/Objective--C%2B%2B-5B8EFA?style=flat-square&logo=apple&logoColor=white" />
       <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Backend &amp; AI</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -83,9 +81,9 @@
     <td align="center"><strong>Cloud &amp; DevOps</strong></td>
     <td>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS_SAM-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
       <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
       <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS_SAM-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
     </td>
@@ -105,61 +103,56 @@
 ### 🚀 Featured Projects
 
 #### 1. [Atheleo](https://github.com/JJonyeok2/Atheleo) - AI 실시간 운동 자세 및 체형 분석 모바일 앱 - 2인 개발, 팀장
-> iOS 실제 기기 환경을 기반으로 실시간 카메라 프레임을 읽어 사용자의 스쿼트/푸시업 자세를 교정해주고, 신체 랜드마크 분석을 통해 8가지 체형 유형을 분류해주는 헬스케어 모바일 애플리케이션입니다.
+> 실시간 카메라 프레임을 읽어 사용자의 운동 자세를 교정하고 신체 랜드마크 분석을 통해 체형을 분류하는 헬스케어 애플리케이션입니다. 클라이언트 최적화부터 백엔드 데이터 처리까지 전체 아키텍처를 리드했습니다.
 *   **Key Work**: 
-    *   Vision Camera 기반 실시간 카메라 프레임 수신 및 비동기 파이프라인 최적화.
-    *   카메라 프레임의 고성능 Base64 변환을 위해 **iOS 네이티브 프레임 프로세서 플러그인(`ToBase64Plugin.mm`, Objective-C++)**을 직접 커스텀 개발 및 브릿지 연결.
-    *   **React Native Reanimated** 기반의 다이나믹 애니메이션 및 피드백 섬광(Green/Yellow/Red) UX 구현.
-    *   시각장애인 또는 운동 중 화면을 보기 어려운 환경을 위해 **TTS(Text-to-Speech) 실시간 음성 피드백** 연동.
-*   **Stack**: `React Native (0.74.3)`, `Objective-C++ (Native Module)`, `Vision Camera`, `Reanimated`, `Worklets Core`, `Django REST`, `MediaPipe`, `Movenet`, `Xcode`
+    *   **Django REST** 기반 백엔드 API 서버를 구축하고, **MoveNet** 모델을 연동하여 신체 랜드마크 데이터 분석 파이프라인 설계.
+    *   카메라 프레임의 고성능 Base64 변환을 위해 **iOS 네이티브 프레임 프로세서 플러그인(`ToBase64Plugin.mm`)** 커스텀 개발 및 브릿지 연결.
+    *   Vision Camera 기반 비동기 파이프라인 최적화 및 React Native Reanimated를 활용한 실시간 시각/음성(TTS) 피드백 로직 구현.
+*   **Stack**: `React Native`, `Objective-C++`, `Django REST`, `MoveNet`, `Vision Camera`, `Reanimated`
 
-#### 2. [oh_my_agents](https://github.com/Joraemon-s-Secret-Gadgets/oh_my_agents) - 에이전트(AI) 협업 표준 가이드라인 및 경량 하네스 - 1인 개발(Harness) 
-> 팀 협업 환경에서 멀티 에이전트(AI)들이 주체적이고 일관적으로 태스크를 위임, 수행, 리뷰, 검증하도록 돕는 프롬프트 엔진 및 경량 실행 오케스트레이션 프레임워크입니다.
+#### 2. [oh_my_agents](https://github.com/Joraemon-s-Secret-Gadgets/oh_my_agents) - 에이전트(AI) 협업 표준 가이드라인 및 경량 하네스 - 1인 개발 (Harness) 
+> 멀티 에이전트(AI)들이 주체적이고 일관적으로 태스크를 위임, 수행, 리뷰, 검증하도록 돕는 프롬프트 엔진 및 백엔드 오케스트레이션 프레임워크입니다.
 *   **Key Work**:
-    *   역할 에이전트(Spec, Task, Implementation, Review 등)들의 라이프사이클(Spawn/Wait/Close) 및 데이터 인계 프로토콜 설계.
-    *   GitHub Issue의 라벨(Label), 우선순위(Priority)를 파싱하여 적절한 에이전트 팀과 연동 방식을 제안하는 **경량 이슈 라우팅 스크립트(`lovv_issue_router.py`)** 구축.
-    *   에이전트가 코덱스(Codex) 및 툴 환경에서 규칙서(`AGENTS.md`)를 준수하며 협업하도록 트리거를 연동하는 하네스 설계.
+    *   역할 에이전트들의 라이프사이클(Spawn/Wait/Close) 관리 및 에이전트 간 데이터 인계 프로토콜(Data Flow) 백엔드 설계.
+    *   GitHub Issue의 라벨과 우선순위를 파싱하여 적절한 에이전트 팀으로 라우팅하는 **경량 자동화 스크립트(`lovv_issue_router.py`)** 구축.
 *   **Stack**: `Python`, `GitHub API`, `Agentic Workflow`, `Codex Skill`
 
-#### 3. [JobPocket](https://github.com/Joraemon-s-Secret-Gadgets/job-pocket) - RAG 기반 AI 자기소개서 초안 생성 및 첨삭 서비스 - 6인 개발
-> 취업 준비생이 경험과 포지션 채용 정보를 입력하면 채용 데이터를 기반으로 직무 적합성과 설득력을 평가하여 맞춤형 자소서 초안을 자동 생성및 피드백을 통해 수정해주는 웹 서비스입니다.
+#### 3. [Lovv](https://github.com/Joraemon-s-Secret-Gadgets/Lovv) - 한·일 소도시 감성 여행 AI 큐레이션 서비스 - 4인 개발
+> 사용자의 선호를 AI Chat 인터페이스로 분석하여 최적의 로컬 소도시 여행 일정을 개인화하여 제작해주는 큐레이션 웹 애플리케이션입니다.
 *   **Key Work**:
-    *   **FastAPI**를 연계한 백엔드 API 설계.
-    *   Chainlit으로 빠른 프로토타이핑 -> Streamlit 기반의 UI 구성 
+    *   **AWS SAM(Lambda, API Gateway)** 및 **Cognito/DynamoDB**를 활용하여 확장성 높은 서버리스 백엔드 아키텍처 설계.
+    *   여행 무드 설정을 위한 인터랙티브 온보딩 카드 플로우 및 대화형 일정 생성 챗 인터페이스 UI/UX 개발.
+    *   S3 + CloudFront를 활용한 프론트엔드 배포 및 RDS MySQL을 연계한 복합 데이터베이스 환경 구축.
+*   **Stack**: `AWS SAM`, `Lambda`, `DynamoDB`, `RDS MySQL`, `React`, `TypeScript`, `Tailwind CSS`
 
-*   **Stack**: `FastAPI`, `Streamlit`, `MySQL (Vector)`, `RunPod Serverless`, `HuggingFace`, `LangChain`, `LangSmith`, `Jira`
+#### 4. [JobPocket](https://github.com/Joraemon-s-Secret-Gadgets/job-pocket) - RAG 기반 AI 자기소개서 초안 생성 및 첨삭 서비스 - 6인 개발
+> 채용 데이터를 기반으로 직무 적합성을 평가하고 맞춤형 자소서 초안을 자동 생성 및 피드백해주는 RAG 기반 웹 서비스입니다.
+*   **Key Work**:
+    *   **FastAPI**를 활용하여 초고속 비동기 API 서버를 설계하고 LLM 추론 지연 시간(Latency) 최적화.
+    *   **MySQL (Vector)** 및 LangChain을 활용하여 기업 채용 데이터와 사용자 경험 데이터를 매칭하는 RAG 데이터 파이프라인 구축.
+*   **Stack**: `FastAPI`, `MySQL (Vector)`, `RunPod Serverless`, `HuggingFace`, `LangChain`, `Streamlit`
 
-#### 4. [Olfit](https://github.com/Joraemon-s-Secret-Gadgets/olfit) - OOTD 스타일 분석 기반 AI 향수 추천 플랫폼 - 6인 개발
-> 사용자가 업로드한 OOTD(오늘의 착장) 이미지를 분석하여 스타일에 맞는 노트를 산출하고, 800여 개 데이터 중 개인의 아우라에 맞는 제품을 매칭해주는 큐레이션 서비스입니다.
+#### 5. [Olfit](https://github.com/Joraemon-s-Secret-Gadgets/olfit) - OOTD 스타일 분석 기반 AI 향수 추천 플랫폼 - 6인 개발
+> 사용자의 OOTD 이미지를 분석하여 스타일에 맞는 노트를 산출하고 개인의 아우라에 맞는 향수 제품을 매칭해주는 큐레이션 서비스입니다.
 *   **Key Work**: 
-    *   Vite + React + TypeScript 환경에서 **Zustand를 활용한 전역 상태 관리 및 추천 API 흐름 제어**.
-    *   **Shadcn UI** 기반의 감도 높은 레이아웃 설계 및 리포트 이미지 캡처/내보내기 기능 구현.
-    *   **Nvidia NIM (Gemma VLM)** 이미지 분석 파이프라인 연동 기획 및 시각 정보 벡터 매칭 프론트 로직 구축.
-*   **Stack**: `React`, `TypeScript`, `html2canvas`, `Vite`, `Zustand`, `Shadcn UI`, `Django REST`, `MySQL`, `Docker / Docker Compose`, `Jira`
-
-#### 5. [Lovv](https://github.com/Joraemon-s-Secret-Gadgets/Lovv) - 한·일 소도시 감성 여행 AI 큐레이션 서비스 - 4인 개발
-> 여행 Pace, 축제 포함 여부 등 사용자의 선호를 AI Chat 인터페이스로 좁혀가며 최적의 로컬 소도시 여행 일정을 개인화하여 제작해주는 큐레이션 웹 애플리케이션입니다.
-*   **Key Work**:
-    *   와이어프레임부터, PoC to Prod 까지 UI/UX 전체 설계
-    *   여행 무드 설정을 위한 인터랙티브 온보딩(Onboarding) 카드 플로우 개발.
-    *   Trip-duration 지도 및 대화형 일정 생성 챗 인터페이스 UI 컴포넌트 설계.
-    *   **AWS SAM(Lambda, API Gateway)** 및 **Cognito/DynamoDB** 기반 서버리스 API 통합 연동.
-*   **Stack**: `React`, `TypeScript`, `Vite`, `S3 + CloudFront`,`Tailwind CSS`, `AWS SAM (Python Lambda)`, `DynamoDB`, `RDS MySQL`
+    *   **Django REST** 및 MySQL 기반의 추천 결과 저장 및 유저 데이터 파이프라인 API 설계.
+    *   **Nvidia NIM (Gemma VLM)** 이미지 분석 파이프라인을 연동하여 프론트-백엔드 간 시각 정보 벡터 매칭 로직 구축.
+    *   Vite + React 환경에서 Zustand를 활용한 전역 상태 관리 및 추천 API 데이터 플로우 제어.
+*   **Stack**: `Django REST`, `MySQL`, `React`, `TypeScript`, `Zustand`, `Docker / Docker Compose`
 
 #### 6. [Bluehand-Founder](https://github.com/JJonyeok2/Bluehand-Founder) - 위치 기반 현대자동차 정비소 매칭 서비스 - 6인 개발
-> 사용자의 현재 GPS 기반 위치 정보나 검색 지역을 바탕으로 전국 현대자동차 블루핸즈 정비소 리스트를 조회하고, 특수 정비(전기차, 수소차, 판금, N-Line 등) 필터를 적용해 매칭해주는 웹 서비스입니다.
+> 사용자의 GPS 위치 정보를 바탕으로 특수 정비(전기차, 수소차 등) 필터를 적용해 전국 현대자동차 블루핸즈 정비소를 매칭해주는 웹 서비스입니다.
 *   **Key Work**:
-    *   `streamlit-js-eval` API를 활용하여 사용자의 **실시간 GPS 위치 좌표 데이터 동적 획득**.
-    *   `Folium` 지도를 연동하여 검색된 정비소 지점 위치 마커 시각화 및 세부 사양 정보창 연계.
-    *   전기차(EV), 수소차, 판금 차체 가중 필터링을 위한 **MySQL 데이터베이스 스키마 설계 및 데이터 쿼리 최적화**.
-*   **Stack**: `Python`, `Streamlit`, `Folium (streamlit-folium)`, `MySQL`, `Pandas`
+    *   전기차(EV), 수소차, 판금 차체 가중 필터링을 위한 **MySQL 데이터베이스 스키마 설계 및 대규모 위치 데이터 쿼리 최적화**.
+    *   `streamlit-js-eval` API를 활용한 실시간 GPS 데이터 획득 및 `Folium` 지도를 통한 위치 마커 시각화 연계.
+*   **Stack**: `Python`, `MySQL`, `Pandas`, `Streamlit`, `Folium`
 
 ---
 
 ### 🏢 Organizations & Teams
 
 *   **[Joraemon-s-Secret-Gadgets (조라에몽의 만능 도구들)](https://github.com/Joraemon-s-Secret-Gadgets)**: 혁신적인 서비스(Olfit, JobPocket, Lovv 등)를 개발하기 위해 모인 프로젝트 개발 Org.
-*   **SK Networks Family 26th**: AI와 Python 등 개발에 대한 기초 베이스를 학습하고 검증하는 AI 캠프 26기 수료, 우수 프로젝트 선정
+*   **SK Networks Family 26th**: AI와 풀스택 개발 역량을 학습하고 실무 중심의 아키텍처를 검증하는 AI 캠프 26기 (우수 프로젝트 선정)
 
 ---
 
@@ -179,5 +172,5 @@
 *   📝 **Dev Blog**: [Obsidian Zettelkasten](https://github.com/JJonyeok2/JJonyeoks_zet_note)
 
 <p align="right">
-  <sub>Last updated: 2026.06.30</sub>
+  <sub>Last updated: 2026.07.31</sub>
 </p>
