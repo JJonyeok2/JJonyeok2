@@ -123,14 +123,14 @@
     *   **AWS SAM(Lambda, API Gateway)** 및 **Cognito/DynamoDB**를 활용하여 확장성 높은 서버리스 백엔드 아키텍처 설계.
     *   여행 무드 설정을 위한 인터랙티브 온보딩 카드 플로우 및 대화형 일정 생성 챗 인터페이스 UI/UX 개발.
     *   S3 + CloudFront를 활용한 프론트엔드 배포 및 RDS MySQL을 연계한 복합 데이터베이스 환경 구축.
-*   **Stack**: `AWS SAM`, `Lambda`, `DynamoDB`, `RDS MySQL`, `React`, `TypeScript`, `Tailwind CSS`
+*   **Stack**: `AWS SAM`, `Lambda`, `DynamoDB`, `RDS MySQL`, `React`, `TypeScript`, `Tailwind CSS`, `Vercel`
 
 #### 4. [JobPocket](https://github.com/Joraemon-s-Secret-Gadgets/job-pocket) - RAG 기반 AI 자기소개서 초안 생성 및 첨삭 서비스 - 6인 개발
 > 채용 데이터를 기반으로 직무 적합성을 평가하고 맞춤형 자소서 초안을 자동 생성 및 피드백해주는 RAG 기반 웹 서비스입니다.
 *   **Key Work**:
     *   **FastAPI**를 활용하여 초고속 비동기 API 서버를 설계하고 LLM 추론 지연 시간(Latency) 최적화.
     *   **MySQL (Vector)** 및 LangChain을 활용하여 기업 채용 데이터와 사용자 경험 데이터를 매칭하는 RAG 데이터 파이프라인 구축.
-*   **Stack**: `FastAPI`, `MySQL (Vector)`, `RunPod Serverless`, `HuggingFace`, `LangChain`, `Streamlit`
+*   **Stack**: `FastAPI`, `MySQL (Vector)`, `RunPod Serverless`, `HuggingFace`, `LangChain`, `Streamlit`, `Vercel`
 
 #### 5. [Olfit](https://github.com/Joraemon-s-Secret-Gadgets/olfit) - OOTD 스타일 분석 기반 AI 향수 추천 플랫폼 - 6인 개발
 > 사용자의 OOTD 이미지를 분석하여 스타일에 맞는 노트를 산출하고 개인의 아우라에 맞는 향수 제품을 매칭해주는 큐레이션 서비스입니다.
@@ -138,7 +138,7 @@
     *   **Django REST** 및 MySQL 기반의 추천 결과 저장 및 유저 데이터 파이프라인 API 설계.
     *   **Nvidia NIM (Gemma VLM)** 이미지 분석 파이프라인을 연동하여 프론트-백엔드 간 시각 정보 벡터 매칭 로직 구축.
     *   Vite + React 환경에서 Zustand를 활용한 전역 상태 관리 및 추천 API 데이터 플로우 제어.
-*   **Stack**: `Django REST`, `MySQL`, `React`, `TypeScript`, `Zustand`, `Docker / Docker Compose`
+*   **Stack**: `Django REST`, `MySQL`, `React`, `TypeScript`, `Zustand`, `Docker / Docker Compose`, `Vercel`
 
 #### 6. [Bluehand-Founder](https://github.com/JJonyeok2/Bluehand-Founder) - 위치 기반 현대자동차 정비소 매칭 서비스 - 6인 개발
 > 사용자의 GPS 위치 정보를 바탕으로 특수 정비(전기차, 수소차 등) 필터를 적용해 전국 현대자동차 블루핸즈 정비소를 매칭해주는 웹 서비스입니다.
@@ -153,7 +153,7 @@
     *   **Next.js** 환경에서 카카오맵 JavaScript SDK를 연동하여 전국 단위 매장 탐색 및 마커 클러스터 지도 인터페이스 구축.
     *   자연어 입력에서 핵심 의도를 추출하고 임베딩 벡터와 결합하는 **하이브리드 검색(Hybrid Search) RAG 파이프라인**으로 맞춤형 추천 챗봇 로직 구현.
     *   사용자의 위치 정보를 바탕으로 가까운 순 정렬 데이터 파이프라인을 구축하고, 데스크톱 및 모바일(바텀시트) 반응형 UI 설계.
-*   **Stack**: `Next.js`, `TypeScript`, `Tailwind CSS`, `Kakao Map API`, `Hybrid Search (RAG)`
+*   **Stack**: `Next.js`, `TypeScript`, `Tailwind CSS`, `Kakao Map API`, `Hybrid Search (RAG)`, `Supabase`, `Vercel`
 
 ---
 
