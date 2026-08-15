@@ -147,7 +147,7 @@
     *   `streamlit-js-eval` API를 활용한 실시간 GPS 데이터 획득 및 `Folium` 지도를 통한 위치 마커 시각화 연계.
 *   **Stack**: `Python`, `MySQL`, `Pandas`, `Streamlit`, `Folium`
 
-#### 7. [Ramen Map](https://github.com/JJonyeok2/jjonyeoks-ramen-map) - RAG 기반 라멘 취향 분석 및 맞춤 추천 지도 웹 서비스 - 1인 개발
+#### 7. [Ramen Map や!](https://github.com/JJonyeok2/jjonyeoks-ramen-map) - RAG 기반 라멘 취향 분석 및 맞춤 추천 지도 웹 서비스 - 1인 개발
 > 자연어 발화 내용(기분, 날씨, 메뉴 취향 등)을 분석하여 최적의 라멘 매장을 추천하고, 전국 단위로 탐색할 수 있는 AI 지도 웹앱입니다.
 *   **Key Work**:
     *   **Next.js** 환경에서 카카오맵 JavaScript SDK를 연동하여 전국 단위 매장 탐색 및 마커 클러스터 지도 인터페이스 구축.
