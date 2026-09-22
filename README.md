@@ -30,7 +30,7 @@ AI와 함께 만들고, 궁금한 건 먼저 써보고, 늘 사용자 자리에�
 
 ### With
 
-[조라에몽의 만능 도구들](https://github.com/Joraemon-s-Secret-Gadgets) · SK Networks Family AI Camp 26기 (최종 프로젝트 우수상)
+[조라에몽의 만능 도구들](https://github.com/Joraemon-s-Secret-Gadgets) · Team SK Networks Family AI Camp 26기 
 
 <br>
 
